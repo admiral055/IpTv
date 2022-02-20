@@ -1,0 +1,471 @@
+{
+  "protoVersion": 1,
+  "lastUpdate": 1579259632,
+  "operator": {
+    "name": "ADMiral055",
+    "logoUrl": "https://www.dropbox.com/s/m8q6pfd7v9fvfy0/logo.png?dl=1",
+	"background": "http://oboi.ws/filters/lomo_25_6838_oboi_zakruchennaja_abstrakcija_1920x1200.jpg"
+  },
+  "apps": [
+	{
+      "package": "studio.scillarium.ottnavigator",
+      "version": "1.6.6.7",
+      "buildNumber": 265,
+      "title": "OTT Navigator",
+      "description": "OTT Navigator - это изумительный Android ТВ плеер с большими возможностями. Смотри как настроить IPTV, добавить плейлист и скачай бесплатно.",
+      "releaseNotes": "Мод",
+      "developer": "SIA Scillarium Studio",
+      "apkUrl": "https://www.dropbox.com/s/wncw0x6p6pht2ib/1631887409_ott-navigator-iptv-v1_6_6_7-mod-5mod_ru.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video",
+		"Video_players"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/qigwiur9rhafrld/scale_1200%20%281%29.webp?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/3mvkeoevq0q1laa/navigator-ott-iptv.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/0vzoq9gh8aoo29l/screen-4.jpg?dl=1","https://www.dropbox.com/s/m8pp1rxgs9j10aw/6-3.png?dl=1","https://www.dropbox.com/s/51jpbx3aqxkboyu/screen-10.jpg?dl=1","https://www.dropbox.com/s/ff5w941g8p9pp5i/ott-navigator-iptv-27847-3.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.softmedia.receiver.castapp",
+      "version": "1.5.5",
+      "buildNumber": 284,
+      "title": "Google Cast",
+      "description": "CastReceiver - это приемник Screen Cast. Это позволяет вам зеркально отображать свой телефон Android или вкладку Chrome на любом устройстве Android, на котором работает CastReceiver. С помощью CastReceiver вы можете легко поделиться своим телефоном / экраном Chromebook с друзьями или сделать презентацию на встрече. Используйте встроенный Google Cast на вашем телефоне / ChromeBook, чтобы включить зеркальное отображение экрана. CastReceiver появится в списке приемников вместе со всеми устройствами Chromecast ™, которые также могут быть поблизости. Просто выберите CastReceiver из списка приемников Cast, и экран вашего устройства Android начнет зеркальное отображение!",
+      "releaseNotes": "Premium",
+      "developer": "softmedia",
+      "apkUrl": "https://www.dropbox.com/s/d88a4yx9yxysdfc/CastReceiver_1.5.5_armeabi-v7a.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/yksueopa2699wa3/unnamlghked.webp?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/k4lvk8pam94mw3p/864a0b121249345.Y3JvcCwxMDI0LDgwMCwwLDExMQ.jpg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/1cawybsio7qb8su/cestusplay1632824300077.jpg?dl=1","https://www.dropbox.com/s/i038tle2g4ky1n5/cestusplay1632824310121.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.touchtype.swiftkey",
+      "version": "7.8.7.8",
+      "buildNumber": 354,
+      "title": "SwiftKey",
+      "description": "Клавиатура с системой предикативного ввода текста. Есть возможность использовать любых два и более языка. Переключение раскладки производится слайдом по пробелу. Проводит анализ ваших СМС, почты (Gmail), Facebook и Twitter, а также всего того, что вы ею написали. Что в свою очередь позволяет очень грамотно подбирать нужные слова, соответственно вашему стилю письма. Предугадывание очень неплохое (после набора 1-3 буквы). Порой подставляет сразу следующее слово. Присутствует голосовой ввод.",
+      "releaseNotes": "Модификация",
+      "developer": "SwiftKey",
+      "apkUrl": "https://www.dropbox.com/s/j6e3t486f58gw8t/SwiftKey_7.8.7.8_Mod_arm7.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/au4bhrur2yvke2e/45unnamed.webp?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/in5nej1b5dglg42/1625577292_swiftkey-updated-header.jpg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/uwzqmkcollmuc3q/smart-7.jpg?dl=1","https://www.dropbox.com/s/om61hyvmezt7hbn/screen-6.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+    {
+      "package": "dkc.video.hdbox",
+      "version": "2.31-fix-10092021-02",
+      "buildNumber": 118,
+      "title": "HD VideoBox",
+      "description": "HD VideoBox - каталог фильмов, сериалов и мультфильмов, с возможностью поиска видеофайлов и торрентов к ним на различных сайтах.",
+      "releaseNotes": "Мод",
+      "developer": "Alex.Strannik",
+      "apkUrl": "https://www.dropbox.com/s/fpkhpa6namfc2kr/hdvideobox-2.31-fix-10092021-02-rezka-default-channel.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/t6sj01saxokgl02/23657829.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/658c072yleq7g24/1619358831_c997624e-621c-49c3-a6b5-30393ee0c221.jpeg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/gpytut6ed8wwnxw/6.jpg?dl=1","https://www.dropbox.com/s/1zlf3mtm5ljar9q/1427210946.jpg?dl=1","https://www.dropbox.com/s/8firvsa6gjjx8bj/1476487777_screenshot_20161009-192901.png?dl=1","https://www.dropbox.com/s/wkzxii6wtu5lybh/DrxTmiJScrGmVHgvePKvgiz1k7C8O.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "org.acestream.core.atv",
+      "version": "3.1.68.0",
+      "buildNumber": 256,
+      "title": "Ace Stream Engine",
+      "description": "Ace Stream Engine - утилита, предназначенная для возможности проигрывания видео и аудио контента, получаемого пользователем из сетевых источников и приложений, в любом удобном ему плеере, в том числе и на удаленном устройстве.",
+      "releaseNotes": "Release",
+      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES, LLC",
+      "apkUrl": "https://www.dropbox.com/s/nzs2op75lr7cfs2/ace-stream-engine-for-android-tv_3.1.68.0_armeabi-v7a.apk?dl=1",
+      "categoriesTags": [
+        "Video"       
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/vwbml6rzhxrnfzc/11504766.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/wmp7wy820xzk8rf/83cc431eb89915771fe774e9854fce29_fgraphic.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/qv46ob43kvxu98a/1512913038_ace-stream-engine.jpg?dl=1","https://www.dropbox.com/s/kmllv6ic6nsn5j7/image007.png?dl=1","https://www.dropbox.com/s/gau2cqs3nbqcbml/1564036281_816_Laden-Sie-Acestream-Android-herunter-um-Fernsehsender-zu-sehen.jpg?dl=1","https://www.dropbox.com/s/6ilv46ivhjb81uo/15544905.png?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.spotify.tv.android",
+      "version": "1.3.1",
+      "buildNumber": 120,
+      "title": "Spotify",
+      "description": "Интернет-сервис потокового аудио, позволяющий легально прослушивать музыкальные композиции, аудиокниги и подкасты, не скачивая их на устройство. Доступен в виде веб-сайта, приложений для всех операционных систем, смартфонов, смарт-устройств и медиа-систем автомобилей. На сервис приходится более 36% мирового аудиостриминга, он доступен в большинстве стран обеих Америк, практически во всех странах Европы, некоторых странах Азии и Африки, в Австралии и Океании.",
+      "releaseNotes": "Release",
+      "developer": "admiral055",
+      "apkUrl": "https://www.dropbox.com/s/ikpvp0f2ojibayl/Spotify%2BMusic%2BAndroid%2BTV%2B1.3.1%2BMOD.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Audio"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/j0lu5nmstzt8olw/p1_3169792_095277a0.jpg?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/ghk5373eab3oc4e/p1_2909020_4896ff82.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/9ks79h7ofdkkbc0/spotify-on-amazon-fire-tv.jpg?dl=1","https://www.dropbox.com/s/u6zk8z6h1mspa41/spotifyapple.jpg?dl=1","https://www.dropbox.com/s/cn978wu1xbwdqbp/spotify.jpg?dl=1","https://www.dropbox.com/s/bkchbw24vwdsk2s/Screenshot_20210915-041315.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": false,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+    {
+      "package": "com.liskovsoft.smarttubetv.mod",
+      "version": "13.77",
+      "buildNumber": 123,
+      "title": "SmartTubeNext",
+      "description": "YouTube клиент для медиа-боксов и ТВ на базе Android В настоящее время множество девайсов имеют проблемы с YouTube. Цель приложения - исправить этот недостаток.",
+      "releaseNotes": "Stable",
+      "developer": "ValeraSH",
+      "apkUrl": "https://www.dropbox.com/s/tlmmiro2we1fozv/YouTube%20TV%20Next%20v13.47%2812.47%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/rk2mbscv9hdrht6/23877021.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/rk2mbscv9hdrht6/23877021.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/ebi3mgiy64a59hk/tmp_559-Screenshot_2015-11-29-04-41-111711154388.png?dl=1","https://www.dropbox.com/s/8i944torvmbpveo/youtube_atv-02.jpg?dl=1","https://www.dropbox.com/s/2dh2kd51yjsc2ql/browse_subscriptions.png?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+    {
+      "package": "com.vgtrk.smotrim",
+      "version": "1.6",
+      "buildNumber": 124,
+      "title": "Смотрим",
+      "description": "Весь видео и аудио контент ВГТРК — фильмы, сериалы, шоу, концерты, передачи, интервью, мультфильмы, актуальные новости и темы дня, архив и прямой эфир всех телеканалов и радиостанций холдинга. ТВ программа. Смотрим - в хорошем качестве на любом устройстве и в удобное для вас время!",
+      "releaseNotes": "Stable",
+      "developer": "ВГТРК",
+      "apkUrl": "https://www.dropbox.com/s/imz2l0om3ejct23/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%28AndroidTV%29_v.1.6%281001603%29%285.0-11.0%29%28arm7a%2Carm64-8a%2Cx86%2Cx86-64%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+		"News",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/ufliwlgun5rh62e/bigplay.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/2u21gjivdqd0jc1/merged_splash_screen_2560.jpg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/rjt3x2wylakfz59/8.jpg?dl=1","https://www.dropbox.com/s/8ixkjoem9sczlg7/cestusplay1632758297217.jpg?dl=1","https://www.dropbox.com/s/bilonkb5eoxcq79/cestusplay1632758264190.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+    {
+      "package": "com.lonelycatgames.Xplore",
+      "version": "4.27.65",
+      "buildNumber": 126,
+      "title": "X-plore File Manager",
+      "description": "Весь видео и аудио контент ВГТРК — фильмы, сериалы, шоу, концерты, передачи, интервью, мультфильмы, актуальные новости и темы дня, архив и прямой эфир всех телеканалов и радиостанций холдинга. ТВ программа. Смотрим - в хорошем качестве на любом устройстве и в удобное для вас время!",
+      "releaseNotes": "Stable",
+      "developer": "Lonely Cat Games (Donate by Balatan)",
+      "apkUrl": "https://www.dropbox.com/s/tve6i95gg5sb61e/X-plore_v4.27.65%2842765%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/z8wre7vddosmygw/12065207.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/8a6txb3zt0mm33v/024343ofj0s8008fibsj44.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/xcns6kwgb5x0ofc/xplore_file_manager-01.png?dl=1","https://www.dropbox.com/s/lmfoplm68rsvp30/x-plore-file-manager-for-pc-windows-10-8-7-mac.jpg?dl=1","https://www.dropbox.com/s/wnkknis24r2qqsz/05-5-Best-File-Manager-Apps-for-Android-2020.png?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "ru.ntv.client.tv",
+      "version": "2.5.1",
+      "buildNumber": 156,
+      "title": "НТВ",
+      "description": "Присоединитесь к миллионам посетителей НТВ.ru, чтобы смотреть и читать самые качественные материалы от ведущего российского телеканала на Android TV. Более 24 часов видео ежедневно, днем и ночью. С помощью приложения вы сможете в любой момент быть в курсе событий, смотреть прямой эфир НТВ, НТВ-Сериал, НТВ-Право, НТВ-Стиль, полные выпуски и архив всех передач, которые когда-либо были показаны на телеэкране.",
+      "releaseNotes": "Stable",
+      "developer": "НТВ",
+      "apkUrl": "https://www.dropbox.com/s/6rogbxuh0z2lg00/ru.ntv.client.tv.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/ufliwlgun5rh62e/bigplay.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/j8rbfnhgzsatw7p/ntv.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/jz949tvp5018cxx/unnamed%286%29.webp?dl=1","https://www.dropbox.com/s/t7qaa0tugphyuat/unnamed%2810%29.webp?dl=1","https://www.dropbox.com/s/wjfvu2o20sy6sdz/unnamed%288%29.webp?dl=1","https://www.dropbox.com/s/3du9wm3gnh0tqnb/unnamed%2811%29.webp?dl=1","https://www.dropbox.com/s/y72nufxi9gq3asg/unnamed%2812%29.webp?dl=1","https://www.dropbox.com/s/65uwp4ts3o7mao7/unnamed%289%29.webp?dl=1","https://www.dropbox.com/s/dktjxdrizap7cwe/unnamed%287%29.webp?dl=1"]
+     },
+     "rules": {
+       "forceInstall": false,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "mobi.zona",
+      "version": "1.10.10",
+      "buildNumber": 128,
+      "title": "Зона",
+      "description": "Зона — ваш персональный кинотеатр в кармане, где фильмы онлайн доступны 24 часа в сутки. 31 000 популярнейших фильмов с описанием и рейтингом. Зона покажет их вам, где бы вы не находились. смотреть фильмы онлайн с быстрым интернетом можно уже через пару минут! Зона скрасит досуг в дороге — качайте и смотрите фильмы или скачивайте музыку онлайн в любом месте. Место для нескольких часов развлечений найдётся на любом устройстве — приложение подберёт подходящий размер видео и для телефона, и для планшета. Вместе с тем, вам всегда доступен любой из вариантов качества. Выбирайте, что понравится, и делайте закладки на фильмы онлайн для будущего просмотра. Мы хотим, чтобы вам было чем развлечься в длительной поездке или очереди. Зона лишена рекламы и бесплатна.",
+      "releaseNotes": "Stable",
+      "developer": "Destiny Media (by Alexey070315)",
+      "apkUrl": "https://www.dropbox.com/s/e8teoyevxsciu6p/Zona_v1.10.10_MustHave.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/gkybv5p4zm1c2w9/16497026.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/sceizr2rrfzp2so/scale_1200.webp?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/17h6pr81c23nfq3/zona.jpg?dl=1","https://www.dropbox.com/s/ws43jd0ua843ewk/maxresdefault%20%281%29.jpg?dl=1","https://www.dropbox.com/s/gi3wx3nsb6u4w4r/142de27344ed0813b46c1ad8dede8fbc.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": false,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.tiktok.tv",
+      "version": "1.0.15",
+      "buildNumber": 129,
+      "title": "TikTok",
+      "description": "Сервис для создания и просмотра коротких видео, принадлежащий пекинской компании «ByteDance». Запущенная весной 2018 года международная версия является ведущей видеоплатформой для коротких видео в Китае и становится всё более популярной в других странах, став одним из наиболее быстрорастущих и скачиваемых приложений.",
+      "releaseNotes": "Stable",
+      "developer": "TikTok Pte. Ltd.",
+      "apkUrl": "https://www.dropbox.com/s/3coi8yx4ht1ofjp/com.tiktok.tv_1.0.15-100015_minAPI21%28arm64-v8a%2Carmeabi-v7a%29%28nodpi%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+		"Social",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/wj0ugkey99h824h/16912718.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/iuybvc8yf7hmj0v/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9-%D0%A2%D0%B8%D0%BA%D0%A2%D0%BE%D0%BA.jpeg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/o4z208z34ytod98/1-28-1600x900.jpg?dl=1","https://www.dropbox.com/s/8muzd9vafr88ie4/tiktok-video-copy.jpg?dl=1","https://www.dropbox.com/s/2yvh6o3s9r3xiq7/screen-0_large.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.android.chrome",
+      "version": "60.0.3112.116",
+      "buildNumber": 130,
+      "title": "Chrome",
+      "description": "Браузер, разрабатываемый компанией Google на основе свободного браузера Chromium и движка Blink. Первая публичная бета-версия для Windows вышла 2 сентября 2008 года, а первая стабильная - 11 декабря 2008 года. По данным StatCounter, Chrome используют около 300 миллионов интернет-пользователей, что делает его самым популярным браузером в мире - его рыночная доля на январь 2021 года составляет ▼63,63%.",
+      "releaseNotes": "Stable",
+      "developer": "Google LLC",
+      "apkUrl": "https://www.dropbox.com/s/x8v80aelxczqnlj/chrome_60.0.3112.116-%2824%29%28arm%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+		"News",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/hoxoqfk3w4eikb8/kak-chistit-kesh-v-google-chrome-i-zachem-eto-nuzhno-1536x1128.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/q3d23jnen0su3si/Chrome-Feature.jpg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/ikx65cc2tzddbyh/Solved-your-profile-can-not-be-used-in-Chrome-06.png?dl=1","https://www.dropbox.com/s/jsg6qupnz3bevz6/message-36738728-5846266300372017551.png?dl=1","https://www.dropbox.com/s/9ge2xce837c3n7y/2014-02-22_115811.png?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.cetusplay.remoteservice",
+      "version": "4.7.8.0-For TV",
+      "buildNumber": 131,
+      "title": "CetusPlay",
+      "description": "Управление устройствами android TV/BOX при помощи телефона или планшета на ОС Андроид",
+      "releaseNotes": "Stable",
+      "developer": "CetusPlay",
+      "apkUrl": "https://s3-us-west-1.amazonaws.com/cetusplay/cetusplay_site/cetusplay_site_tv.apk",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/35j4bu4y98lamgs/10396227.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/ijes6ex19fhgrgq/0bb21680cec83ad926db9bd118fa4dc3_fgraphic.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/uqy2s5llbe7bdlt/maxresdefault%20%283%29.jpg?dl=1","https://www.dropbox.com/s/lalnjkcgmmmd7yq/sddefault.jpg?dl=1","https://www.dropbox.com/s/cinrqp5ro3go426/cetusplay.png?dl=1"]
+     },
+     "rules": {
+       "forceInstall": false,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "ru.freeman42.app4pda",
+      "version": "5.3 beta 7",
+      "buildNumber": 654,
+      "title": "App&Game 4PDA",
+      "description": "App&Game 4PDA - это альтернативный магазин приложений и игр.",
+      "releaseNotes": "Beta",
+      "developer": "FreeMan42",
+      "apkUrl": "https://www.dropbox.com/s/rzq5vgfhrkv6cnn/app4pda.v5.3.beta.7.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/pmng7dx0beozu9r/7566818.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/u7hto0mojmanrye/8.png?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/ceyf6i76zwuqcmu/cestusplay1632827334065.jpg?dl=1","https://www.dropbox.com/s/2oak021aq7ewg0b/cestusplay1632827378816.jpg?dl=1","https://www.dropbox.com/s/nih7j7jlojugnwz/cestusplay1632827419248.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": false,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+	{
+      "package": "com.mxtech.videoplayer.ad",
+      "version": "1.39.14",
+      "buildNumber": 132,
+      "title": "MX Player",
+      "description": "По заявлению разработчиков, наиболее передовой видеоплеер из всех, доступных на Android сегодня. Он воспроизводит практически все видео файлы, в том числе .3gp .avi .divx .f4v .flv .mkv .mp4 .mpeg .mov .vob .wmv .webm .xvid и прочие.Также он читает большинство широко используемых файлов субтитров, в том числе .srt .ssa .ass .sub .smi .mpl .txt .psb и Matroska Subtitle Track (mkv). С его уникальной особенностью прокручивания субтитров вы легко можете перемещаться между текстами субтитров.",
+      "releaseNotes": "Pro",
+      "developer": "Unlocked by Andihackmods",
+      "apkUrl": "https://www.dropbox.com/s/o8x81wr5ry4x9lw/MX_Player_v.1.39.14%281310001444%29%285.0-11.0%29%28arm7a%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/5p6hfb6grvjsqqq/16526742.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/n9fpcisn23qar6y/mx-player-pro.jpg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/gghnwzc8kytv3f8/Screenshot_2015-02-11-02-15-03.png?dl=1","https://www.dropbox.com/s/guyjjt71gru3s5g/unnamed.png?dl=1","https://www.dropbox.com/s/8jiqyqbnjpnof9h/smotri_filmi_2.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": true,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    },
+    {
+      "package": "ru.beeline.tve.android",
+      "version": "10.2.0",
+      "buildNumber": 125,
+      "title": "Билайн ТВ",
+      "description": "Билайн ТВ – это не просто возможность смотреть телеканалы, новинки кино, мультики и сериалы, это онлайн телевидение нового поколения! Все жанры – боевики, комедии и многое другое. Интерактивная телепрограмма всех телеканалов на неделю вперед и передачи за прошедшие 3 дня в едином телегиде. Подключайте дополнительные пакеты ТВ каналов, чтобы получить максимум каналов любимых тематик.",
+      "releaseNotes": "Stable",
+      "developer": "Билайн",
+      "apkUrl": "https://www.dropbox.com/s/imz2l0om3ejct23/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%28AndroidTV%29_v.1.6%281001603%29%285.0-11.0%29%28arm7a%2Carm64-8a%2Cx86%2Cx86-64%29.apk?dl=1",
+      "categoriesTags": [
+        "Entertainments",
+		"News",
+        "Video"
+      ],
+      "permissions": [
+        "Internet"
+      ],
+      "media": {
+        "logoUrl": "https://www.dropbox.com/s/2r2omwxo6y13f1p/1200x630wa.png?dl=1",
+        "bannerUrl": "https://www.dropbox.com/s/695j8a1z7wyaehd/0ligCgyWKl4.jpg?dl=1",
+        "screenshots": ["https://www.dropbox.com/s/if890fuca6hf889/e21cb270583231.Y3JvcCwxMzgwLDEwODAsMTE5LDA.jpg?dl=1","https://www.dropbox.com/s/7km0reaufxmhgz5/58d70da62f7754c9ed7a2.jpg?dl=1","https://www.dropbox.com/s/2uo0gftbb63drhz/eyuce0g8maoggwg0oockssc400ogo4.jpg?dl=1"]
+     },
+     "rules": {
+       "forceInstall": false,
+       "forceUpdate": false,
+	   "uninstall": true
+     }
+    }
+  ]
+}
