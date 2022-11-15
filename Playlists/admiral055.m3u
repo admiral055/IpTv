@@ -11,7 +11,7 @@ http://10.200.201.69/perviykanal/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/29hzehnu9mb25bs/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20HD.png?dl=1" ,Первый канал HD
 http://10.200.201.69/1hd/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/hz8sxyw9mrco74s/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.png?dl=1" ,Россия 1
-http://10.200.201.71/rossia1/mpegts
+http://tv-cache1.powernet.com.ru//RAM//239.1.9.34.main.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/c1uay8m2zcea9yi/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20HD.png?dl=1" ,Россия 1 HD
 http://tv-cache1.powernet.com.ru//RAM//239.1.9.34.main.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
