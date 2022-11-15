@@ -11,7 +11,7 @@ http://10.200.201.68/rossia1hd/mpegts
 http://10.200.201.73/rossia1/mpegts
 
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
-http://10.200.201.68/ntv/mpegts
+http://10.200.201.73/ntv/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/y1foyd0n83wczpo/%D0%9D%D0%A2%D0%92%20HD.png?dl=1" ,НТВ HD
 http://10.200.201.68/ntvhd/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/f69llal9vk8gtu4/%D0%A0%D0%B5%D0%BD.png?dl=1" ,Рен ТВ
