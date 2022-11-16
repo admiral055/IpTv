@@ -50,7 +50,7 @@ http://10.200.201.11/russiatodaydochd-online/mpegts
 
 
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnt_hd.png", ТНТ HD
-http://10.200.201.11/tnthd-online/mpegts
+http://10.200.201.46/tnthd-online/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
 http://10.200.201.73/tnt/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
