@@ -17,7 +17,7 @@ http://10.200.201.68/ntvhd/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/f69llal9vk8gtu4/%D0%A0%D0%B5%D0%BD.png?dl=1" ,Рен ТВ
 http://10.200.201.13/rentv/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
-http://10.200.201.69/5kanal/mpegts
+http://10.200.201.73/5kanal/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/0xtyg6x03bsk1ur/%D0%A7%D0%B5.png?dl=1" ,Че
 http://10.200.201.12/che-online/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ucq9i89jgvutfy5/%D0%A2%D0%923.png?dl=1" ,ТВ3
@@ -27,21 +27,21 @@ http://10.200.201.73/zvezda/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/w80hyw9x27jylt7/%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png?dl=1" ,ТВ Центр
 http://10.200.201.68/tvcentr/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/mrfzynpettqbak0/%D0%9E%D0%A2%D0%A0.png?dl=1" ,ОТР
-http://10.200.201.69/otr/mpegts
+http://10.200.201.46/otr/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="360° hd" tvg-logo="https://www.dropbox.com/s/76h5h8zzecf72nq/360%20HD.png?dl=1" ,360° HD
-http://10.200.201.69/360hd/mpegts
+http://10.200.201.46/360hd/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/wk7ivv97jn4br4o/8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,8 канал
 http://10.200.201.68/8kanal/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/peqkc58shuxne1j/%D0%9C%D0%B8%D1%80.png?dl=1" ,Мир
-http://10.200.201.69/mir/mpegts
+http://10.200.201.46/mir/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64prwjxbc8z40hb/%D0%9C%D0%98%D0%A0%2024.png?dl=1" ,Мир 24
-http://10.200.201.69/mir24/mpegts
+http://10.200.201.46/mir24/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/2cgsb33mgqhruat/%D0%A0%D0%91%D0%9A.png?dl=1" ,РБК
-http://10.200.201.69/rbk/mpegts
+http://10.200.201.46/rbk/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/5lqca9fgfskw217/Russia%20today.png?dl=1", Russia Today
-http://10.200.201.69/russiatoday/mpegts
+http://10.200.201.46/russiatoday/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД
-http://10.200.201.12/russiatodaydochd-online/mpegts
+http://10.200.201.11/russiatodaydochd-online/mpegts
 
 
 
@@ -50,21 +50,21 @@ http://10.200.201.12/russiatodaydochd-online/mpegts
 
 
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnt_hd.png", ТНТ HD
-http://10.200.201.12/tnthd-online/mpegts
+http://10.200.201.11/tnthd-online/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
 http://10.200.201.73/tnt/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
 http://10.200.201.68/tnt4/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
-http://10.200.201.69/2x2/mpegts
+http://10.200.201.46/2x2/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
-http://10.200.201.69/pyatnica/mpegts
+http://10.200.201.68/pyatnica/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
-http://10.200.201.69/sts/mpegts
+http://10.200.201.46/sts/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
-http://10.200.201.69/yu/mpegts
+http://10.200.201.46/sts/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/qaefru10qxwndm8/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png?dl=1" ,Вопросы и ответы
-http://10.200.201.68/voprosiiotveti/mpegts
+http://10.200.201.46/voprosiiotveti/mpegts
 
 
 
@@ -72,9 +72,7 @@ http://10.200.201.68/voprosiiotveti/mpegts
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/ryk3zw0zq8a0mx5/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F.png?dl=1" ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/07ka8pqtbdltp0c/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png?dl=1" ,Россия 24
-http://10.200.201.69/rossia24/mpegts
-#EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/nsrzhsvnil8ma7a/Euronews.png?dl=1" ,Евроновости
-http://10.200.201.69/euronews/mpegts
+http://10.200.201.46/rossia24/mpegts
 
 
 
@@ -82,10 +80,7 @@ http://10.200.201.69/euronews/mpegts
 
 
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/u87t3qo4pqufr6x/Paramount%20Comedy.png?dl=1" ,Paramount Comedy
-http://10.200.201.69/paramountcomedy/mpegts
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/nnn7o9o0qkzf21p/Paramount%20Channel.png?dl=1" ,Paramount Channel
-http://10.200.201.73/paramountchannel_test/mpegts
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfocql2azm5f7uw/%D0%9D%D0%A1%D0%A2.png?dl=1" ,НСТ
 http://10.200.201.68/nst/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/tdoch3479srtd1p/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7.png?dl=1" ,Кинопоказ
@@ -95,21 +90,15 @@ http://10.200.201.68/sonyturbo/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zl49ftw8ge67mpx/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png?dl=1" ,Мосфильм. Золотая коллекция
 http://10.200.201.73/mosfilm/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/dfxjozz0wbzfmn4/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Еврокино
-http://10.200.201.69/evrokino/mpegts
+http://10.200.201.46/evrokino/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ujh35l6ckja048m/%D0%98%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20%2B.png?dl=1" ,Иллюзион +
-http://10.200.201.69/illusionplus/mpegts
+http://10.200.201.46/illusionplus/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/t5htjr96bz1n0ru/Cinena.png?dl=1" ,Cinema
-http://10.200.201.71/cinema/mpegts
+http://10.200.201.46/cinema/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/cz31pnjtlx0b6qo/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD.png?dl=1" ,Кино ТВ HD
-http://10.200.201.71/kinotvhd/mpegts
+http://10.200.201.46/kinotvhd/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/pagutj21m59ckkb/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png?dl=1" ,Кино ТВ
 http://10.200.201.68/kinotv/mpegts
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/t4zw6dqe5u9otr3/Amedia%20Hit.png?dl=1" ,Amedia HIT
-http://10.200.201.69/amediahit/mpegts
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/g5bnq2tblh58ws3/A1.png?dl=1" ,А1
-http://10.200.201.69/a1hd/mpegts
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ddvymvrdcoh5rt7/A2.png?dl=1" ,А2
-http://10.200.201.69/a2hd/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/fl5cy2k0qcp7mfp/%D0%9D%D0%A2%D0%92%20%D0%A5%D0%98%D0%A2.png?dl=1" ,НТВ ХИТ
 http://10.200.201.68/ntv-hit/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/x04cno546lpt2dg/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png?dl=1" ,НТВ Сериал
@@ -117,33 +106,33 @@ http://10.200.201.68/ntv-serial/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/3cbqtxclzpbvz06/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png?dl=1" ,НТВ Право
 http://10.200.201.68/ntv-pravo/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/c50v91fm51pypop/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2.png?dl=1" ,Русский детектив
-http://10.200.201.69/russkiydetectiv/mpegts
+http://10.200.201.46/russkiydetectiv/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/xdo7zgaodjt0wkn/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80.png?dl=1" ,Русский бестселлер
-http://10.200.201.69/russkiybestseller/mpegts
+http://10.200.201.46/russkiybestseller/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/3cl2ivtavov21s6/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD.png?dl=1" ,Русский роман
-http://10.200.201.69/russkiyroman/mpegts
+http://10.200.201.46/russkiyroman/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ynu2ct7j1y24hie/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD.png?dl=1" ,Русский иллюзион
-http://10.200.201.71/russkiyilusion/mpegts
+http://10.200.201.46/russkiyilusion/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/yuw3sg6ak7c9ay6/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Советское кино
-http://10.200.201.68/sovetskoyekino/mpegts
+http://10.200.201.46/sovetskoyekino/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/lsjyiono6hkpmej/%D0%A0%D0%95%D0%A2%D0%A0%D0%9E.png?dl=1" ,Ретро
-http://10.200.201.69/retro/mpegts
+http://10.200.201.68/retro/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zqqasse85bivd0m/%D0%A1%D0%A2%D0%A1%20Love.png?dl=1" ,СТС Love
-http://10.200.201.68/stslove/mpegts
+http://10.200.201.46/stslove/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/1p40ur6n8epfodb/%D0%A1%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD.png?dl=1" ,Сарафан
-http://10.200.201.69/sarafan/mpegts
+http://10.200.201.46/sarafan/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/xqbt1ssqjscar5l/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png?dl=1" ,Комедия
-http://10.200.201.68/komedia/mpegts
+http://10.200.201.46/komedia/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/do09o6o3ln0mbpc/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png?dl=1" ,Суббота!
-http://10.200.201.68/super/mpegts
+http://10.200.201.46/super/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/2h23qi6msfi8oyi/Zee%20TV.png?dl=1" ,Zee TV
-http://10.200.201.69/zeetv/mpegts
+http://10.200.201.68/zeetv/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/9jwz9g1pyn3btc6/%D0%94%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.png?dl=1" ,Дорама HD
-http://10.200.201.68/doramahd/mpegts
+http://10.200.201.46/doramahd/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema 4k" tvg-logo="https://www.dropbox.com/s/9linn7q7yo72lef/Ultra%20HD%20Cinema%204K.png?dl=1", Ultra HD Cinema 4K
-http://10.200.201.69/ultrahdcinema/mpegts
+http://10.200.201.68/ultrahdcinema/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema hd" tvg-logo="https://www.dropbox.com/s/871775rfqyhmhv0/Ultra%20HD%20Cinema%20HD.png?dl=1" ,Ultra HD Cinema HD
-http://10.200.201.69/ultrahdcinemahd/mpegts
+http://10.200.201.46/ultrahdcinemahd/mpegts
 
 
 
@@ -167,51 +156,49 @@ http://10.200.201.69/ultrahdcinemahd/mpegts
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/d6r7lscyjmsauyw/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png?dl=1" ,Наука 2.0
-http://10.200.201.69/nauka20/mpegts
+http://10.200.201.46/nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="т24" tvg-logo="https://www.dropbox.com/s/m3x6e5txsmkr29c/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%2024.png?dl=1" ,Техно 24
-http://10.200.201.69/tehno24/mpegts
+http://10.200.201.46/tehno24/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/yijuivoanu9vagc/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png?dl=1" ,НТВ Стиль
-http://10.200.201.68/ntv-stil/mpegts
+http://10.200.201.46/ntv-stil/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="первый космический hd" tvg-logo="https://www.dropbox.com/s/5lqc99j1xxj4d4m/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.png?dl=1" ,Первый космический HD
-http://10.200.201.69/perviykosmicheskiyhd/mpegts
+http://10.200.201.46/perviykosmicheskiyhd/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/vb5g6wdwx0m8kyv/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png?dl=1" ,История
-http://10.200.201.71/istorya/mpegts
+http://10.200.201.46/istorya/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/cbustl4l9fqwxrp/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0.png?dl=1" ,Тайна
-http://10.200.201.69/tayna/mpegts
+http://10.200.201.46/tayna/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/639g1xsqr2l6t5l/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2021.png?dl=1" ,Психология 21
-http://10.200.201.68/psihologia-21/mpegts
+http://10.200.201.46/psihologia-21/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/totd0mecnsmlxuj/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B9%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%20%D0%A2%D0%92.png?dl=1" ,Калейдоскоп ТВ
 http://10.200.201.68/kaleydoskoptv/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="" ,Арсенал HD
-http://10.200.201.13/arsenalhd/mpegts
+http://10.200.201.46/arsenalhd/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/k1zwrrdbg62hyp5/%D0%9D%D0%B0%D0%BD%D0%BE.png?dl=1" ,Нано
-http://10.200.201.69/nano/mpegts
+http://10.200.201.46/nano/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ikodioynoeba4b1/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5.png?dl=1" ,Домашние животные
-http://10.200.201.68/domashniezivotnie/mpegts
+http://10.200.201.46/domashniezivotnie/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/lqdt041q0ir1ju0/%D0%9C%D0%BE%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png?dl=1" ,Моя планета
-http://10.200.201.71/moyaplaneta/mpegts
+http://10.200.201.46/moyaplaneta/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/3q25k9sir8qag33/%D0%96%D0%B8%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png?dl=1" ,Живая планета
-http://10.200.201.71/jivayaplaneta/mpegts
+http://10.200.201.46/jivayaplaneta/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/vhif4lz5cmhx2dj/RTG%20HD.png?dl=1" ,RTG HD
-http://10.200.201.69/rtghd/mpegts
+http://10.200.201.46/rtghd/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/rnsbccc2i8bwae0/RTG%20TV.png?dl=1" ,RTG TV
-http://10.200.201.69/rtg/mpegts
-#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/o0l4xuhrcaraksa/National%20Geographic%20HD.png?dl=1" ,National Geographic HD
-http://10.200.201.71/nationalgeographichd/mpegts
-#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64jg71lvm5slaxa/National%20Geographic.png?dl=1" ,National Geographic
+http://10.200.201.68/rtg/mpegts
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/o0l4xuhrcaraksa/National%20Geographic%20HD.png?dl=1" ,Terra HD
+http://10.200.201.46/nationalgeographichd/mpegts
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64jg71lvm5slaxa/National%20Geographic.png?dl=1" ,Terra
 http://10.200.201.68/nationalgeographic/mpegts
-#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/d1yywo6wdqlc8qo/Nat%20Geo%20Wild%20HD.png?dl=1" ,National Geographic Wild HD
-http://10.200.201.68/nationalgeographicwildhd/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/xfea0bp63qz49ov/%D0%97%D0%BE%D0%BE%20%D0%A2%D0%92.png?dl=1" ,Зоо ТВ
-http://10.200.201.71/zootv/mpegts
+http://10.200.201.46/zootv/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/to05tuvbxzwf1ma/Zoo%D0%BF%D0%B0%D1%80%D0%BA.png?dl=1" ,Zooпарк
-http://10.200.201.69/zoopark/mpegts
+http://10.200.201.46/zoopark/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/yo5qc6vtl29dpsd/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F.png?dl=1" ,Телепутешествия
-http://10.200.201.71/teleputeshestvia/mpegts
+http://10.200.201.46/teleputeshestvia/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/1pefawlcwae8dct/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png?dl=1" ,Просвещение
-http://10.200.201.12/prosveshenie-online/mpegts
+http://10.200.201.11/prosveshenie-online/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/pbelx90h8eiow99/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A.png?dl=1" ,Россия К
-http://10.200.201.71/rossiak/mpegts
+http://10.200.201.46/rossiak/mpegts
 
 
 
@@ -229,23 +216,19 @@ http://10.200.201.71/rossiak/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
 http://10.200.201.68/multhd/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" , Мульт и музыка
-http://10.200.201.68/multimuzika/mpegts
+http://10.200.201.46/multhd/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
-http://10.200.201.71/detskiy/video.m3u8
+http://10.200.201.46/detskiy/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
-http://10.200.201.69/mama/mpegts
+http://10.200.201.46/mama/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
-http://10.200.201.68/vgostyahuskazki/mpegts
+http://10.200.201.46/vgostyahuskazki/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Disney
 http://10.200.201.13/disney/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Nickelodeon
-http://10.200.201.69/nickelodeon/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
 http://10.200.201.68/rijiy/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="nick jr" tvg-logo="" ,Nick Jr.
-http://10.200.201.68/nickjr./mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
-http://10.200.201.71/karusel/mpegts
+http://10.200.201.46/karusel/mpegts
 
 
 
@@ -264,19 +247,19 @@ http://10.200.201.71/karusel/mpegts
 
 
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/hpp37hudm1cxjir/%D0%9C%D0%B0%D1%82%D1%87%21%20HD.png?dl=1" ,Матч! HD
-http://10.200.201.68/matchtvhd/mpegts
+udp://@239.1.8.4:1234
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/t0uxug3m7b0o3zm/%D0%9C%D0%B0%D1%82%D1%87%21.png?dl=1" ,Матч!
 http://10.200.201.68/matchtv/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/xbh665sfwz1lcuf/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png?dl=1" ,Футбол HD
-http://10.200.201.69/futbol/mpegts
+http://10.200.201.46/futbol/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Спортивный HD
-http://10.200.201.69/sportivniyhd/mpegts
+http://10.200.201.46/sportivniyhd/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Футбольный HD
-http://10.200.201.13/futbolniyhd/video.m3u8
+http://10.200.201.46/futbolniyhd/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Хоккейный HD
-http://10.200.201.69/hokkeyniyhd/mpegts
+http://10.200.201.73/hokkeyniyhd/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/v49zqk5nmpk61uo/%D0%A1%D1%82%D0%B0%D1%80%D1%82%20HD.png?dl=1", Старт HD
-http://10.200.201.68/starthd/mpegts
+http://10.200.201.46/starthd/mpegts
 
 
 
@@ -296,29 +279,29 @@ http://10.200.201.68/starthd/mpegts
 
 
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,ТНТ Music
-http://10.200.201.69/tntmusic/mpegts
+http://10.200.201.46/tntmusic/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,RU.TV
-http://10.200.201.69/rutv/mpegts
+http://10.200.201.46/rutv/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Муз-ТВ
-http://10.200.201.69/muztv/mpegts
+http://10.200.201.46/muztv/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Deluxe
-http://10.200.201.69/bridgetvdelux/mpegts
+http://10.200.201.46/bridgetvdelux/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV
-http://10.200.201.69/bridgetv/mpegts
+http://10.200.201.46/bridgetv/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV HITS
-http://10.200.201.69/bridgetvhist/mpegts
+http://10.200.201.46/bridgetvhist/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Classic
-http://10.200.201.68/bridgetvclassic/mpegts
+http://10.200.201.46/bridgetvclassic/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Русский хит
-http://10.200.201.68/bridgetvrusskiyhit/mpegts
+http://10.200.201.46/bridgetvrusskiyhit/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Europa Plus TV
 http://10.200.201.68/europaplustv/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,9 волна
-http://10.200.201.69/abctv/mpegts
+http://10.200.201.46/abctv/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="0!2 hd" tvg-logo="" ,0!2 HD
-http://10.200.201.69/o!2tvhd/mpegts
+http://10.200.201.46/o!2tvhd/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="https://www.dropbox.com/s/jl4sjne3spi38ol/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8.png?dl=1" ,Телеканал народной музыки
-http://10.200.201.69/telekanalnarodnoymusiki/mpegts
+http://10.200.201.46/telekanalnarodnoymusiki/mpegts
 
 
 
@@ -337,32 +320,24 @@ http://10.200.201.69/telekanalnarodnoymusiki/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
 http://timeshift-proxy.powernet.com.ru/volzsky+-online/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
-udp://@239.1.8.19:1234
+http://10.10.10.1:4022/udp/239.1.8.19:1234
 
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/N6if3eMfSzWEXe9/download" ,Волгоград 1
-http://10.200.201.68/volgograd1hd/mpegts
+http://10.200.201.46/volgograd1hd/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/4bf3D443WgjeAFx/download" ,Волгоград 24
 http://10.200.201.68/volgograd24hd/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/oDPfbsDQPof4o8o/download" ,МТВ Волгоград
-http://10.200.201.69/mtv/mpegts
+http://10.200.201.68/mtv/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/63M8rKiZTw9d6Fj/download" ,Астрахань 24
-http://10.200.201.69/astrahan24hd/mpegts
+http://10.200.201.46/astrahan24hd/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/d3BP9eCS8pTdeGr/download" ,Кубань 24
-http://10.200.201.12/kuban24-online/mpegts
+http://10.200.201.46/kuban24-online/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/k6JkBeDtr5odpmE/download" ,ТНВ
-http://10.200.201.12/tnvplaneta-online/mpegts
+http://10.200.201.46/tnvplaneta-online/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/w45D4FmNB5jWboN/download" ,Грозный
-http://10.200.201.12/grozniy-online/mpegts
+http://10.200.201.46/grozniy-online/mpegts
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/HEoRmbqdHAfWYPB/download" ,Беларусь 24
-http://10.200.201.69/belarus24/mpegts
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="" ,France 24 HD (Fr)
-http://10.200.201.68/france24hdfrench/mpegts
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="" ,France 24 HD (Eng)
-http://10.200.201.68/france24hdenglish/mpegts
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/onYtJDrB8xmn7yB/download" ,Deutsche Welle
-http://10.200.201.73/deutschewellehdenglish/mpegts
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo=http://10.10.10.4:81/index.php/s/tnMDxpYg2jZHp28/download" ,NHK WORLD-JAPAN
-http://10.200.201.11/nhkworld-japan-online/mpegts
+http://10.200.201.46/belarus24/mpegts
 
 
 
@@ -381,9 +356,9 @@ http://10.200.201.11/nhkworld-japan-online/mpegts
 
 
 #EXTINF:-1 group-title="Политические" tvg-name="" tvg-logo="" ,Красная линия
-http://10.200.201.71/krassnayaliniya/mpegts
+http://10.200.201.46/krassnayaliniya/mpegts
 #EXTINF:-1 group-title="Политические" tvg-name="" tvg-logo="" ,Вместе-РФ
-http://10.200.201.11/vmeste-rf-online/mpegts
+http://10.200.201.46/vmeste-rf-online/mpegts
 
 
 
@@ -397,43 +372,39 @@ http://10.200.201.11/vmeste-rf-online/mpegts
 
 
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/okhotnik_i_rybolov_hd.png" ,Охотник и рыболов HD
-http://10.200.201.68/ohotniciribolovhd/mpegts
+http://10.200.201.46/ohotniciribolovhd/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/okhotnik_i_rybolov.png" ,Рыболов
-http://10.200.201.68/ohotnociribolov/mpegts
+http://10.200.201.46/ohotnociribolov/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/dialogi_o_rybalke.png", Диалоги о рыбалке
-http://10.200.201.68/dialogioribalke/mpegts
+http://10.200.201.46/dialogioribalke/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/okhota_i_rybalka.png" ,Охота и рыбалка
-http://10.200.201.69/ohotairibalka/mpegts
+http://10.200.201.46/ohotairibalka/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/russkij_ehkstrim.png" ,Russian Extreme
-http://10.200.201.69/russianextreme/mpegts
+http://10.200.201.46/russianextreme/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="" ,Живи активно
-http://10.200.201.69/jiviaktivnohd/mpegts
+http://10.200.201.46/jiviaktivnohd/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnomer.png" ,Тномер
-http://10.200.201.68/tnomer/mpegts
+http://10.200.201.46/tnomer/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/E.png" ,E!TV
-http://10.200.201.68/e/mpegts
+http://10.200.201.46/e/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="https://www.dropbox.com/s/sg1relw11tghd4m/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9.png?dl=1" ,Домашний
-http://10.200.201.69/domashniy/mpegts
+http://10.200.201.46/domashniy/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/tonus_tv.png" ,Тонус ТВ
-http://10.200.201.69/tonustv/mpegts
+http://10.200.201.46/tonustv/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/zdorovoe_tv.png" ,Здоровое ТВ
-http://10.200.201.68/zdorovietv/mpegts
-#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/zhivi.png" ,Живи
-http://10.200.201.68/jivi/mpegts
+http://10.200.201.46/zdorovietv/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/usadba.png" ,Усадьба
-http://10.200.201.69/usadba/mpegts
+http://10.200.201.46/usadba/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/zagorodnyj.png" ,Загородный
-http://10.200.201.71/zagorodniy/mpegts
+http://10.200.201.46/zagorodniy/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/World_Fashion_Channel.png" ,World Fashion Channel
-http://10.200.201.71/wfc/mpegts
+http://10.200.201.46/wfc/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Luxury.png" ,Luxury
-http://10.200.201.69/luxury/mpegts
-#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Top_Shop_TV.png" ,Top Shop TV
-http://10.200.201.12/topshoptv-online/mpegts
+http://10.200.201.46/luxury/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/leomax24.png" ,Leomax 24
-http://10.200.201.11/shop24-online/mpegts
+http://10.200.201.46/shop24-online/mpegts
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Shopping_Live.png" ,Shopping Live
-http://10.200.201.11/shoppinglife-online/mpegts
+http://10.200.201.46/shoppinglife-online/mpegts
 
 
 
@@ -444,11 +415,11 @@ http://10.200.201.11/shoppinglife-online/mpegts
 
 
 #EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/6t6t1y0a3xyu5vz/%D0%A1%D0%BE%D1%8E%D0%B7.png?dl=1" ,Союз
-http://10.200.201.69/souz/mpegts
+http://10.200.201.46/souz/mpegts
 #EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/3sqfw7xe2dv7njt/%D0%A1%D0%9F%D0%90%D0%A1.png?dl=1" ,Спас
-http://10.200.201.69/spas/mpegts
+http://10.200.201.46/spas/mpegts
 #EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/4mhnsm9ifiwzx35/%D0%A2%D1%80%D0%B8%20%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0.png?dl=1" ,Три Ангела
-http://10.200.201.68/triangela/mpegts
+http://10.200.201.46/triangela/mpegts
 
 
 
@@ -462,11 +433,11 @@ http://10.200.201.68/triangela/mpegts
 
 
 #EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Радио МАЯК
-http://10.200.201.11/vlg-radiomayak-online/video.m3u8
+http://10.200.201.11/vlg-radiomayak-online/mpegts
 #EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Радио России
-http://10.200.201.12/vlg-radiorossii-online/video.m3u8
+http://10.200.201.46/vlg-radiorossii-online/mpegts
 #EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Вести ФМ
-http://10.200.201.12/vlg-radiovestifm-online/video.m3u8
+http://10.200.201.46/vlg-radiovestifm-online/mpegts
 
 
 
@@ -476,11 +447,11 @@ http://10.200.201.12/vlg-radiovestifm-online/video.m3u8
 
 
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/eitedj8sxatzusd/Barely%20Legal.png?dl=1", Barely Legal
-http://10.200.201.68/barelylegal/mpegts
+http://10.200.201.46/barelylegal/mpegts
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/rpir7tr5c7iobki/FrenchLover.png?dl=1" ,French Lover
-http://10.200.201.71/frenchlover/mpegts
+http://10.200.201.46/frenchlover/mpegts
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/xjbbjq62dbq3llk/Blue-Hustler.png?dl=1" ,Blue Hustler HD
-http://10.200.201.68/bluehustlerhd/mpegts
+http://10.200.201.46/bluehustlerhd/mpegts
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Russian
@@ -543,9 +514,11 @@ http://cdn.adultiptv.net/livecams.m3u8
 10.200.201.11 flussonic-streamer1.powernet
 10.200.201.12 flussonic-streamer2.powernet
 10.200.201.13
+10.200.201.46
 10.200.201.68 timeshift5.powernet
 10.200.201.69
 10.200.201.71 timeshift4.powernet
 10.200.201.73
+
 239.1.7.0
 239.1.14.0
