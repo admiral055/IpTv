@@ -9,8 +9,6 @@ http://10.200.201.73/perviykanal/mpegts
 http://10.200.201.46/rossia1hd/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/hz8sxyw9mrco74s/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.png?dl=1" ,Россия 1
 http://10.200.201.73/rossia1/mpegts
-
-
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/y1foyd0n83wczpo/%D0%9D%D0%A2%D0%92%20HD.png?dl=1" ,НТВ HD
 http://10.200.201.46/ntvhd/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
@@ -43,7 +41,12 @@ http://10.200.201.46/rbk/mpegts
 http://10.200.201.46/russiatoday/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД
 http://10.200.201.11/russiatodaydochd-online/mpegts
-
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-1
+rtsp://10.10.10.100:8554/Lechange
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-2
+rtsp://10.10.10.100:8554/Lechange?mp4
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-3
+rtsp://10.10.10.100:8554/Lechange?video=all&audio=all
 
 
 
