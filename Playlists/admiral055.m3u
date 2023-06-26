@@ -49,9 +49,16 @@ rtsp://10.10.10.100:8554/Lechange
 rtsp://10.10.10.100:8554/Lechange?mp4
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-3
 rtsp://10.10.10.100:8554/Lechange?video=all&audio=all
-
-
-
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-4
+http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/stream.html?src=Lechange&mode=mse
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-5
+http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.m3u8?src=Lechange
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-6
+http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.m3u8?src=Lechange&mp4
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-7
+http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.m3u8?src=Lechange&mp4=flac
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-8
+http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.mjpeg?src=Lechange
 
 
 
