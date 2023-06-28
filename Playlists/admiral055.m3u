@@ -17,8 +17,6 @@ http://10.200.201.73/ntv/mpegts
 http://10.200.201.13/rentv/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
 http://10.200.201.73/5kanal/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/0xtyg6x03bsk1ur/%D0%A7%D0%B5.png?dl=1" ,Че
-http://10.200.201.12/che-online/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ucq9i89jgvutfy5/%D0%A2%D0%923.png?dl=1" ,ТВ3
 http://10.200.201.46/tv3/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfgbuey9lc81yyl/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png?dl=1" ,Звезда
@@ -40,25 +38,9 @@ http://10.200.201.46/rbk/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/5lqca9fgfskw217/Russia%20today.png?dl=1", Russia Today
 http://10.200.201.46/russiatoday/mpegts
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД
-rtsp://10.10.10.100:8554/Lechange
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД1
 http://10.200.201.11/russiatodaydochd-online/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-1
-rtsp://10.10.10.100:8554/Lechange
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-2
-rtsp://10.10.10.100:8554/Lechange?mp4
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-3
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Нинка
 rtsp://10.10.10.100:8554/Lechange?video=all&audio=all
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-4
-http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/stream.html?src=Lechange&mode=mse
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-5
-http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.m3u8?src=Lechange
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-6
-http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.m3u8?src=Lechange&mp4
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-7
-http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.m3u8?src=Lechange&mp4=flac
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Камера-8
-http://10.10.10.100:8123/api/hassio_ingress/5OmwCmJuL1DSc_p-nFuVzXptjx3fl_em98CUV1AqauI/api/stream.mjpeg?src=Lechange
 
 
 
@@ -72,12 +54,12 @@ http://10.200.201.46/tnt4/mpegts
 http://10.200.201.46/2x2/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
 http://10.200.201.46/pyatnica/mpegts
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/0xtyg6x03bsk1ur/%D0%A7%D0%B5.png?dl=1" ,Че
+http://10.200.201.11/che-online/mpegts
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
+http://10.200.201.46/yu/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
 http://10.200.201.46/sts/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
-http://10.200.201.46/sts/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/qaefru10qxwndm8/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png?dl=1" ,Вопросы и ответы
-http://10.200.201.46/voprosiiotveti/mpegts
 
 
 
@@ -212,7 +194,8 @@ http://10.200.201.46/teleputeshestvia/mpegts
 http://10.200.201.11/prosveshenie-online/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/pbelx90h8eiow99/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A.png?dl=1" ,Россия К
 http://10.200.201.46/rossiak/mpegts
-
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/qaefru10qxwndm8/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png?dl=1" ,Вопросы и ответы
+http://10.200.201.46/voprosiiotveti/mpegts
 
 
 
@@ -523,7 +506,7 @@ http://cdn.adultiptv.net/livecams.m3u8
 
 
 31.128.159.9
-31.128.159.41
+31.128.159.41:8080
 10.200.201.11 flussonic-streamer1.powernet
 10.200.201.12 flussonic-streamer2.powernet
 10.200.201.13 timeshift1.powernet
