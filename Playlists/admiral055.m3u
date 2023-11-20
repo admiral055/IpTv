@@ -64,6 +64,30 @@ http://10.200.201.73/sts/mpegts
 
 
 
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
+http://10.200.201.46/mama/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
+http://10.200.201.46/multhd/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
+http://10.200.201.46/rijiy/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
+http://10.200.201.46/karusel/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" , Мульт и музыка
+http://10.200.201.46/multhd/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
+http://10.200.201.46/vgostyahuskazki/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Disney
+http://10.200.201.13/disney/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
+http://10.200.201.46/detskiy/video.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/ryk3zw0zq8a0mx5/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F.png?dl=1" ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/07ka8pqtbdltp0c/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png?dl=1" ,Россия 24
@@ -203,28 +227,6 @@ http://10.200.201.46/voprosiiotveti/mpegts
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
-http://10.200.201.46/multhd/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" , Мульт и музыка
-http://10.200.201.46/multhd/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
-http://10.200.201.46/detskiy/video.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
-http://10.200.201.46/mama/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
-http://10.200.201.46/vgostyahuskazki/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Disney
-http://10.200.201.13/disney/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
-http://10.200.201.46/rijiy/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
-http://10.200.201.46/karusel/mpegts
 
 
 
