@@ -1,0 +1,528 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/29hzehnu9mb25bs/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20HD.png?dl=1" ,Первый канал HD
+http://10.200.201.46/1hd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ufmhrym84f4xrps/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Первый канал
+http://10.200.201.73/perviykanal/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/c1uay8m2zcea9yi/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20HD.png?dl=1" ,Россия 1 HD
+http://10.200.201.46/rossia1hd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/hz8sxyw9mrco74s/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.png?dl=1" ,Россия 1
+http://10.200.201.73/rossia1/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/y1foyd0n83wczpo/%D0%9D%D0%A2%D0%92%20HD.png?dl=1" ,НТВ HD
+http://10.200.201.46/ntvhd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
+http://10.200.201.73/ntv/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/f69llal9vk8gtu4/%D0%A0%D0%B5%D0%BD.png?dl=1" ,Рен ТВ
+http://10.200.201.13/rentv/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
+http://10.200.201.73/5kanal/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ucq9i89jgvutfy5/%D0%A2%D0%923.png?dl=1" ,ТВ3
+http://10.200.201.46/tv3/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfgbuey9lc81yyl/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png?dl=1" ,Звезда
+http://10.200.201.46/zvezda/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/w80hyw9x27jylt7/%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png?dl=1" ,ТВ Центр
+http://10.200.201.46/tvcentr/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/mrfzynpettqbak0/%D0%9E%D0%A2%D0%A0.png?dl=1" ,ОТР
+http://10.200.201.46/otr/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="360° hd" tvg-logo="https://www.dropbox.com/s/76h5h8zzecf72nq/360%20HD.png?dl=1" ,360° HD
+http://10.200.201.46/360hd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/wk7ivv97jn4br4o/8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,8 канал
+http://10.200.201.46/8kanal/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/peqkc58shuxne1j/%D0%9C%D0%B8%D1%80.png?dl=1" ,Мир
+http://10.200.201.46/mir/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64prwjxbc8z40hb/%D0%9C%D0%98%D0%A0%2024.png?dl=1" ,Мир 24
+http://10.200.201.46/mir24/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/2cgsb33mgqhruat/%D0%A0%D0%91%D0%9A.png?dl=1" ,РБК
+http://10.200.201.46/rbk/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/5lqca9fgfskw217/Russia%20today.png?dl=1", Russia Today
+http://10.200.201.46/russiatoday/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД
+http://10.200.201.11/russiatodaydochd-online/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Нинка
+rtsp://10.10.10.100:8554/Lechange?video=all&audio=all
+
+
+
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnt_hd.png", ТНТ HD
+http://10.200.201.46/tnthd-online/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
+http://10.200.201.73/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
+http://10.200.201.46/tnt4/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
+http://10.200.201.46/2x2/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
+http://10.200.201.46/pyatnica/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/0xtyg6x03bsk1ur/%D0%A7%D0%B5.png?dl=1" ,Че
+http://10.200.201.11/che-online/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
+http://10.200.201.46/yu/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
+http://10.200.201.73/sts/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
+http://10.200.201.46/mama/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
+http://10.200.201.46/multhd/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
+http://10.200.201.46/rijiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
+http://10.200.201.46/karusel/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" , Мульт и музыка
+http://10.200.201.46/multhd/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
+http://10.200.201.46/vgostyahuskazki/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Disney
+http://10.200.201.13/disney/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
+http://10.200.201.46/detskiy/video.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/ryk3zw0zq8a0mx5/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F.png?dl=1" ,Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/07ka8pqtbdltp0c/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png?dl=1" ,Россия 24
+http://10.200.201.46/rossia24/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfocql2azm5f7uw/%D0%9D%D0%A1%D0%A2.png?dl=1" ,НСТ
+http://10.200.201.46/nst/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/tdoch3479srtd1p/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7.png?dl=1" ,Кинопоказ
+http://10.200.201.46/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="sony turbo" tvg-logo="https://www.dropbox.com/s/l9gufw42blzvx4f/Black.png?dl=1" ,Black
+http://10.200.201.46/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zl49ftw8ge67mpx/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png?dl=1" ,Мосфильм. Золотая коллекция
+http://10.200.201.73/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/dfxjozz0wbzfmn4/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Еврокино
+http://10.200.201.46/evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ujh35l6ckja048m/%D0%98%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20%2B.png?dl=1" ,Иллюзион +
+http://10.200.201.46/illusionplus/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/t5htjr96bz1n0ru/Cinena.png?dl=1" ,Cinema
+http://10.200.201.46/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/cz31pnjtlx0b6qo/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD.png?dl=1" ,Кино ТВ HD
+http://10.200.201.46/kinotvhd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/pagutj21m59ckkb/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png?dl=1" ,Кино ТВ
+http://10.200.201.46/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/fl5cy2k0qcp7mfp/%D0%9D%D0%A2%D0%92%20%D0%A5%D0%98%D0%A2.png?dl=1" ,НТВ ХИТ
+http://10.200.201.46/ntv-hit/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/x04cno546lpt2dg/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png?dl=1" ,НТВ Сериал
+http://10.200.201.46/ntv-serial/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/3cbqtxclzpbvz06/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png?dl=1" ,НТВ Право
+http://10.200.201.46/ntv-pravo/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/c50v91fm51pypop/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2.png?dl=1" ,Русский детектив
+http://10.200.201.46/russkiydetectiv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/xdo7zgaodjt0wkn/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80.png?dl=1" ,Русский бестселлер
+http://10.200.201.46/russkiybestseller/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/3cl2ivtavov21s6/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD.png?dl=1" ,Русский роман
+http://10.200.201.46/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ynu2ct7j1y24hie/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD.png?dl=1" ,Русский иллюзион
+http://10.200.201.46/russkiyilusion/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/yuw3sg6ak7c9ay6/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Советское кино
+http://10.200.201.46/sovetskoyekino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/lsjyiono6hkpmej/%D0%A0%D0%95%D0%A2%D0%A0%D0%9E.png?dl=1" ,Ретро
+http://10.200.201.46/retro/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zqqasse85bivd0m/%D0%A1%D0%A2%D0%A1%20Love.png?dl=1" ,СТС Love
+http://10.200.201.46/stslove/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/1p40ur6n8epfodb/%D0%A1%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD.png?dl=1" ,Сарафан
+http://10.200.201.46/sarafan/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/xqbt1ssqjscar5l/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png?dl=1" ,Комедия
+http://10.200.201.46/komedia/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/do09o6o3ln0mbpc/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png?dl=1" ,Суббота!
+http://10.200.201.46/super/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/2h23qi6msfi8oyi/Zee%20TV.png?dl=1" ,Zee TV
+http://10.200.201.46/zeetv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/9jwz9g1pyn3btc6/%D0%94%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.png?dl=1" ,Дорама HD
+http://10.200.201.46/doramahd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema 4k" tvg-logo="https://www.dropbox.com/s/9linn7q7yo72lef/Ultra%20HD%20Cinema%204K.png?dl=1", Ultra HD Cinema 4K
+http://10.200.201.46/ultrahdcinema/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema hd" tvg-logo="https://www.dropbox.com/s/871775rfqyhmhv0/Ultra%20HD%20Cinema%20HD.png?dl=1" ,Ultra HD Cinema HD
+http://10.200.201.46/ultrahdcinemahd/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/d6r7lscyjmsauyw/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png?dl=1" ,Наука 2.0
+http://10.200.201.46/nauka20/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="т24" tvg-logo="https://www.dropbox.com/s/m3x6e5txsmkr29c/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%2024.png?dl=1" ,Техно 24
+http://10.200.201.46/tehno24/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/yijuivoanu9vagc/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png?dl=1" ,НТВ Стиль
+http://10.200.201.46/ntv-stil/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="первый космический hd" tvg-logo="https://www.dropbox.com/s/5lqc99j1xxj4d4m/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.png?dl=1" ,Первый космический HD
+http://10.200.201.46/perviykosmicheskiyhd/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/vb5g6wdwx0m8kyv/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png?dl=1" ,История
+http://10.200.201.46/istorya/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/cbustl4l9fqwxrp/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0.png?dl=1" ,Тайна
+http://10.200.201.46/tayna/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/639g1xsqr2l6t5l/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2021.png?dl=1" ,Психология 21
+http://10.200.201.46/psihologia-21/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/totd0mecnsmlxuj/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B9%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%20%D0%A2%D0%92.png?dl=1" ,Калейдоскоп ТВ
+http://10.200.201.46/kaleydoskoptv/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="" ,Арсенал HD
+http://10.200.201.46/arsenalhd/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/k1zwrrdbg62hyp5/%D0%9D%D0%B0%D0%BD%D0%BE.png?dl=1" ,Нано
+http://10.200.201.46/nano/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ikodioynoeba4b1/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5.png?dl=1" ,Домашние животные
+http://10.200.201.46/domashniezivotnie/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/lqdt041q0ir1ju0/%D0%9C%D0%BE%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png?dl=1" ,Моя планета
+http://10.200.201.46/moyaplaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/3q25k9sir8qag33/%D0%96%D0%B8%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png?dl=1" ,Живая планета
+http://10.200.201.46/jivayaplaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/vhif4lz5cmhx2dj/RTG%20HD.png?dl=1" ,RTG HD
+http://10.200.201.46/rtghd/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/rnsbccc2i8bwae0/RTG%20TV.png?dl=1" ,RTG TV
+http://10.200.201.46/rtg/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/o0l4xuhrcaraksa/National%20Geographic%20HD.png?dl=1" ,Terra HD
+http://10.200.201.46/nationalgeographichd/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64jg71lvm5slaxa/National%20Geographic.png?dl=1" ,Terra
+http://10.200.201.46/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/xfea0bp63qz49ov/%D0%97%D0%BE%D0%BE%20%D0%A2%D0%92.png?dl=1" ,Зоо ТВ
+http://10.200.201.46/zootv/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/to05tuvbxzwf1ma/Zoo%D0%BF%D0%B0%D1%80%D0%BA.png?dl=1" ,Zooпарк
+http://10.200.201.46/zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/yo5qc6vtl29dpsd/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F.png?dl=1" ,Телепутешествия
+http://10.200.201.46/teleputeshestvia/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/1pefawlcwae8dct/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png?dl=1" ,Просвещение
+http://10.200.201.11/prosveshenie-online/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/pbelx90h8eiow99/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A.png?dl=1" ,Россия К
+http://10.200.201.46/rossiak/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/qaefru10qxwndm8/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png?dl=1" ,Вопросы и ответы
+http://10.200.201.46/voprosiiotveti/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/hpp37hudm1cxjir/%D0%9C%D0%B0%D1%82%D1%87%21%20HD.png?dl=1" ,Матч! HD
+udp://@239.1.8.4:1234
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/t0uxug3m7b0o3zm/%D0%9C%D0%B0%D1%82%D1%87%21.png?dl=1" ,Матч!
+http://10.200.201.46/matchtv/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/xbh665sfwz1lcuf/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png?dl=1" ,Футбол HD
+http://10.200.201.46/futbol/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Спортивный HD
+http://10.200.201.46/sportivniyhd/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Футбольный HD
+http://10.200.201.46/futbolniyhd/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Хоккейный HD
+http://10.200.201.73/hokkeyniyhd/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/v49zqk5nmpk61uo/%D0%A1%D1%82%D0%B0%D1%80%D1%82%20HD.png?dl=1", Старт HD
+http://10.200.201.46/starthd/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,ТНТ Music
+http://10.200.201.46/tntmusic/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,RU.TV
+http://10.200.201.46/rutv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Муз-ТВ
+http://10.200.201.46/muztv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Deluxe
+http://10.200.201.46/bridgetvdelux/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV
+http://10.200.201.46/bridgetv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV HITS
+http://10.200.201.46/bridgetvhist/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Classic
+http://10.200.201.46/bridgetvclassic/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Русский хит
+http://10.200.201.46/bridgetvrusskiyhit/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Europa Plus TV
+http://10.200.201.46/europaplustv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,9 волна
+http://10.200.201.46/abctv/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="0!2 hd" tvg-logo="" ,0!2 HD
+http://10.200.201.46/o!2tvhd/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="https://www.dropbox.com/s/jl4sjne3spi38ol/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8.png?dl=1" ,Телеканал народной музыки
+http://10.200.201.46/telekanalnarodnoymusiki/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
+http://timeshift-proxy.powernet.com.ru/volzsky+-online/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
+http://10.10.10.1:4022/udp/239.1.8.19:1234
+
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/N6if3eMfSzWEXe9/download" ,Волгоград 1
+http://10.200.201.46/volgograd1hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/4bf3D443WgjeAFx/download" ,Волгоград 24
+http://10.200.201.46/volgograd24hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/oDPfbsDQPof4o8o/download" ,МТВ Волгоград
+http://10.200.201.46/mtv/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/63M8rKiZTw9d6Fj/download" ,Астрахань 24
+http://10.200.201.46/astrahan24hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/d3BP9eCS8pTdeGr/download" ,Кубань 24
+http://10.200.201.46/kuban24-online/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/k6JkBeDtr5odpmE/download" ,ТНВ
+http://10.200.201.46/tnvplaneta-online/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/w45D4FmNB5jWboN/download" ,Грозный
+http://10.200.201.46/grozniy-online/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/HEoRmbqdHAfWYPB/download" ,Беларусь 24
+http://10.200.201.46/belarus24/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Политические" tvg-name="" tvg-logo="" ,Красная линия
+http://10.200.201.46/krassnayaliniya/index.m3u8
+#EXTINF:-1 group-title="Политические" tvg-name="" tvg-logo="" ,Вместе-РФ
+http://10.200.201.46/vmeste-rf-online/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/okhotnik_i_rybolov_hd.png" ,Охотник и рыболов HD
+http://10.200.201.46/ohotniciribolovhd/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/okhotnik_i_rybolov.png" ,Рыболов
+http://10.200.201.46/ohotnociribolov/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/dialogi_o_rybalke.png", Диалоги о рыбалке
+http://10.200.201.46/dialogioribalke/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/okhota_i_rybalka.png" ,Охота и рыбалка
+http://10.200.201.46/ohotairibalka/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/russkij_ehkstrim.png" ,Russian Extreme
+http://10.200.201.46/russianextreme/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="" ,Живи активно
+http://10.200.201.46/jiviaktivnohd/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnomer.png" ,Тномер
+http://10.200.201.46/tnomer/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/E.png" ,E!TV
+http://10.200.201.46/e/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="https://www.dropbox.com/s/sg1relw11tghd4m/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9.png?dl=1" ,Домашний
+http://10.200.201.46/domashniy/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/tonus_tv.png" ,Тонус ТВ
+http://10.200.201.46/tonustv/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/zdorovoe_tv.png" ,Здоровое ТВ
+http://10.200.201.46/zdorovietv/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/usadba.png" ,Усадьба
+http://10.200.201.46/usadba/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/zagorodnyj.png" ,Загородный
+http://10.200.201.46/zagorodniy/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/World_Fashion_Channel.png" ,World Fashion Channel
+http://10.200.201.46/wfc/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Luxury.png" ,Luxury
+http://10.200.201.46/luxury/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/leomax24.png" ,Leomax 24
+http://10.200.201.46/shop24-online/index.m3u8
+#EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Shopping_Live.png" ,Shopping Live
+http://10.200.201.46/shoppinglife-online/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/6t6t1y0a3xyu5vz/%D0%A1%D0%BE%D1%8E%D0%B7.png?dl=1" ,Союз
+http://10.200.201.46/souz/index.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/3sqfw7xe2dv7njt/%D0%A1%D0%9F%D0%90%D0%A1.png?dl=1" ,Спас
+http://10.200.201.46/spas/index.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/4mhnsm9ifiwzx35/%D0%A2%D1%80%D0%B8%20%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0.png?dl=1" ,Три Ангела
+http://10.200.201.46/triangela/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Радио МАЯК
+http://10.200.201.11/vlg-radiomayak-online/index.m3u8
+#EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Радио России
+http://10.200.201.46/vlg-radiorossii-online/index.m3u8
+#EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Вести ФМ
+http://10.200.201.46/vlg-radiovestifm-online/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/eitedj8sxatzusd/Barely%20Legal.png?dl=1", Barely Legal
+http://10.200.201.46/barelylegal/index.m3u8
+#EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/rpir7tr5c7iobki/FrenchLover.png?dl=1" ,French Lover
+http://10.200.201.46/frenchlover/index.m3u8
+#EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/xjbbjq62dbq3llk/Blue-Hustler.png?dl=1" ,Blue Hustler HD
+http://10.200.201.46/bluehustlerhd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+
+
+
+
+
+
+31.128.159.9
+31.128.159.41:8080
+10.200.201.11 flussonic-streamer1.powernet
+10.200.201.12 flussonic-streamer2.powernet
+10.200.201.13 timeshift1.powernet
+10.200.250.18 tv-cache1.powernet.com.ru
+10.200.250.22 tv-cache2.powernet.com.ru
+10.200.250.26 tv-cache3.powernet.com.ru
+10.200.250.30 tv-cache4.powernet.com.ru
+10.200.201.46 timeshift5.powernet
+10.200.201.69
+10.200.201.71 timeshift4.powernet
+10.200.201.73 timeshift2.powernet
+
+
+
+
+239.1.7.0
+239.1.14.0
