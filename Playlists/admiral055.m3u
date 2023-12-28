@@ -526,62 +526,10 @@ http://10.10.10.1:8200/MediaItems/433.mkv
 http://10.10.10.1:8200/MediaItems/380.mkv
 #EXTINF:412 group-title="Маша и Медведь", 10 серия Праздник на льду
 http://10.10.10.1:8200/MediaItems/426.mkv
-#EXTINF:498 group-title="Маша и Медведь", 100 серия Калинка-Малинка
-http://10.10.10.1:8200/MediaItems/330.mkv
-#EXTINF:502 group-title="Маша и Медведь", 101 серия День хороших манер
-http://10.10.10.1:8200/MediaItems/356.mkv
-#EXTINF:440 group-title="Маша и Медведь", 102 серия Остров Сокровищ
-http://10.10.10.1:8200/MediaItems/328.mkv
-#EXTINF:458 group-title="Маша и Медведь", 103 серия Лучшая няня на свете
-http://10.10.10.1:8200/MediaItems/342.mkv
-#EXTINF:454 group-title="Маша и Медведь", 104 серия Кто за старшего
-http://10.10.10.1:8200/MediaItems/326.mkv
-#EXTINF:409 group-title="Маша и Медведь", 105 серия Танцуют все
-http://10.10.10.1:8200/MediaItems/340.mkv
-#EXTINF:439 group-title="Маша и Медведь", 106 серия Дела сердечные
-http://10.10.10.1:8200/MediaItems/347.mkv
-#EXTINF:413 group-title="Маша и Медведь", 107 серия Тушите.Не.тушите
-http://10.10.10.1:8200/MediaItems/358.mkv
-#EXTINF:432 group-title="Маша и Медведь", 108 серия Макароны.по-флотски
-http://10.10.10.1:8200/MediaItems/348.mkv
-#EXTINF:448 group-title="Маша и Медведь", 109 серия Венок из одуванчиков
-http://10.10.10.1:8200/MediaItems/361.mkv
 #EXTINF:411 group-title="Маша и Медведь", 11 серия Первый раз в первый класс
 http://10.10.10.1:8200/MediaItems/388.mkv
-#EXTINF:442 group-title="Маша и Медведь", 110 серия Шкатулка с сюрпризом
-http://10.10.10.1:8200/MediaItems/329.mkv
-#EXTINF:427 group-title="Маша и Медведь", 111 серия Удар,еще удар!
-http://10.10.10.1:8200/MediaItems/357.mkv
-#EXTINF:429 group-title="Маша и Медведь", 112 серия Кушать подано!
-http://10.10.10.1:8200/MediaItems/363.mkv
-#EXTINF:477 group-title="Маша и Медведь", 113 серия Ехали медведи!
-http://10.10.10.1:8200/MediaItems/331.mkv
-#EXTINF:446 group-title="Маша и Медведь", 114 серия Спасайся кто может!
-http://10.10.10.1:8200/MediaItems/346.mkv
-#EXTINF:437 group-title="Маша и Медведь", 115 серия Чудо в перьях!
-http://10.10.10.1:8200/MediaItems/364.mkv
-#EXTINF:426 group-title="Маша и Медведь", 116 серия Мишка на юге
-http://10.10.10.1:8200/MediaItems/332.mkv
-#EXTINF:443 group-title="Маша и Медведь", 117 серия Драконов.день
-http://10.10.10.1:8200/MediaItems/355.mkv
-#EXTINF:425 group-title="Маша и Медведь", 118 серия Мечтать полезно
-http://10.10.10.1:8200/MediaItems/335.mkv
-#EXTINF:439 group-title="Маша и Медведь", 119 серия Всем нужен гол
-http://10.10.10.1:8200/MediaItems/360.mkv
 #EXTINF:419 group-title="Маша и Медведь", 12 серия Граница на замке
 http://10.10.10.1:8200/MediaItems/413.mkv
-#EXTINF:412 group-title="Маша и Медведь", 120 серия Раз-картошка, два-морковка!
-http://10.10.10.1:8200/MediaItems/343.mkv
-#EXTINF:439 group-title="Маша и Медведь", 121 серия Новый друг
-http://10.10.10.1:8200/MediaItems/349.mkv
-#EXTINF:430 group-title="Маша и Медведь", 122 серия Мыть или не мыть
-http://10.10.10.1:8200/MediaItems/345.mkv
-#EXTINF:428 group-title="Маша и Медведь", 123 серия Топ-топ-топ
-http://10.10.10.1:8200/MediaItems/350.mkv
-#EXTINF:460 group-title="Маша и Медведь", 124 серия Принцесса и чудовище
-http://10.10.10.1:8200/MediaItems/322.mkv
-#EXTINF:465 group-title="Маша и Медведь", 125 серия Картонные спасатели
-http://10.10.10.1:8200/MediaItems/338.mkv
 #EXTINF:401 group-title="Маша и Медведь", 13 серия Кто не спрятался, я не виноват
 http://10.10.10.1:8200/MediaItems/373.mkv
 #EXTINF:419 group-title="Маша и Медведь", 14 серия Лыжню
@@ -756,8 +704,58 @@ http://10.10.10.1:8200/MediaItems/375.mkv
 http://10.10.10.1:8200/MediaItems/371.mkv
 #EXTINF:495 group-title="Маша и Медведь", 99 серия Живая шляпа
 http://10.10.10.1:8200/MediaItems/417.mkv
-
-
+#EXTINF:498 group-title="Маша и Медведь", 100 серия Калинка-Малинка
+http://10.10.10.1:8200/MediaItems/330.mkv
+#EXTINF:502 group-title="Маша и Медведь", 101 серия День хороших манер
+http://10.10.10.1:8200/MediaItems/356.mkv
+#EXTINF:440 group-title="Маша и Медведь", 102 серия Остров Сокровищ
+http://10.10.10.1:8200/MediaItems/328.mkv
+#EXTINF:458 group-title="Маша и Медведь", 103 серия Лучшая няня на свете
+http://10.10.10.1:8200/MediaItems/342.mkv
+#EXTINF:454 group-title="Маша и Медведь", 104 серия Кто за старшего
+http://10.10.10.1:8200/MediaItems/326.mkv
+#EXTINF:409 group-title="Маша и Медведь", 105 серия Танцуют все
+http://10.10.10.1:8200/MediaItems/340.mkv
+#EXTINF:439 group-title="Маша и Медведь", 106 серия Дела сердечные
+http://10.10.10.1:8200/MediaItems/347.mkv
+#EXTINF:413 group-title="Маша и Медведь", 107 серия Тушите.Не.тушите
+http://10.10.10.1:8200/MediaItems/358.mkv
+#EXTINF:432 group-title="Маша и Медведь", 108 серия Макароны.по-флотски
+http://10.10.10.1:8200/MediaItems/348.mkv
+#EXTINF:448 group-title="Маша и Медведь", 109 серия Венок из одуванчиков
+http://10.10.10.1:8200/MediaItems/361.mkv
+#EXTINF:442 group-title="Маша и Медведь", 110 серия Шкатулка с сюрпризом
+http://10.10.10.1:8200/MediaItems/329.mkv
+#EXTINF:427 group-title="Маша и Медведь", 111 серия Удар,еще удар!
+http://10.10.10.1:8200/MediaItems/357.mkv
+#EXTINF:429 group-title="Маша и Медведь", 112 серия Кушать подано!
+http://10.10.10.1:8200/MediaItems/363.mkv
+#EXTINF:477 group-title="Маша и Медведь", 113 серия Ехали медведи!
+http://10.10.10.1:8200/MediaItems/331.mkv
+#EXTINF:446 group-title="Маша и Медведь", 114 серия Спасайся кто может!
+http://10.10.10.1:8200/MediaItems/346.mkv
+#EXTINF:437 group-title="Маша и Медведь", 115 серия Чудо в перьях!
+http://10.10.10.1:8200/MediaItems/364.mkv
+#EXTINF:426 group-title="Маша и Медведь", 116 серия Мишка на юге
+http://10.10.10.1:8200/MediaItems/332.mkv
+#EXTINF:443 group-title="Маша и Медведь", 117 серия Драконов.день
+http://10.10.10.1:8200/MediaItems/355.mkv
+#EXTINF:425 group-title="Маша и Медведь", 118 серия Мечтать полезно
+http://10.10.10.1:8200/MediaItems/335.mkv
+#EXTINF:439 group-title="Маша и Медведь", 119 серия Всем нужен гол
+http://10.10.10.1:8200/MediaItems/360.mkv
+#EXTINF:412 group-title="Маша и Медведь", 120 серия Раз-картошка, два-морковка!
+http://10.10.10.1:8200/MediaItems/343.mkv
+#EXTINF:439 group-title="Маша и Медведь", 121 серия Новый друг
+http://10.10.10.1:8200/MediaItems/349.mkv
+#EXTINF:430 group-title="Маша и Медведь", 122 серия Мыть или не мыть
+http://10.10.10.1:8200/MediaItems/345.mkv
+#EXTINF:428 group-title="Маша и Медведь", 123 серия Топ-топ-топ
+http://10.10.10.1:8200/MediaItems/350.mkv
+#EXTINF:460 group-title="Маша и Медведь", 124 серия Принцесса и чудовище
+http://10.10.10.1:8200/MediaItems/322.mkv
+#EXTINF:465 group-title="Маша и Медведь", 125 серия Картонные спасатели
+http://10.10.10.1:8200/MediaItems/338.mkv
 
 
 
