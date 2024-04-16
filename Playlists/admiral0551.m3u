@@ -65,7 +65,7 @@ http://10.200.201.73/sts/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
-http://10.200.201.46/mama/index.m3u8
+http://10.200.201.13/mama/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
 http://10.200.201.46/multhd/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
