@@ -3,12 +3,8 @@
 
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/29hzehnu9mb25bs/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20HD.png?dl=1" ,Первый канал HD
 http://10.200.201.46/1hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ufmhrym84f4xrps/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Первый канал
-http://10.200.201.73/perviykanal/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/c1uay8m2zcea9yi/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20HD.png?dl=1" ,Россия 1 HD
 http://10.200.201.46/rossia1hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/hz8sxyw9mrco74s/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.png?dl=1" ,Россия 1
-http://10.200.201.73/rossia1/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
 http://10.200.201.73/ntv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/f69llal9vk8gtu4/%D0%A0%D0%B5%D0%BD.png?dl=1" ,Рен ТВ
@@ -37,16 +33,15 @@ http://10.200.201.46/rbk/index.m3u8
 http://10.200.201.46/russiatoday/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД
 http://10.200.201.11/russiatodaydochd-online/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Нинка
-rtsp://10.10.10.100:8554/Lechange?video=all&audio=all
 
 
 
 
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
-http://10.200.201.13/mama/index.m3u8
+
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
 http://10.200.201.46/multhd/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
+http://10.200.201.13/mama/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
 http://10.200.201.46/rijiy/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
