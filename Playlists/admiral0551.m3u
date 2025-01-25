@@ -43,7 +43,7 @@ http://10.200.201.46/rijiy/index.m3u8
 http://10.200.201.46/karusel/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
 http://10.200.201.46/vgostyahuskazki/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Disney
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Солнце
 http://10.200.201.13/disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
 http://10.200.201.46/detskiy/video.m3u8
