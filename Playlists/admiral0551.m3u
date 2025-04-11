@@ -40,14 +40,14 @@ http://timeshift-proxy.powernet.com.ru/239.1.12.26/mpegts
 http://timeshift-proxy.powernet.com.ru/239.1.12.13/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
 http://timeshift-proxy.powernet.com.ru/239.1.12.12/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ROCK
+http://timeshift-proxy.powernet.com.ru/239.1.9.15/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bolt HD
 http://timeshift-proxy.powernet.com.ru/239.1.9.25/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Family HD
 http://timeshift-proxy.powernet.com.ru/239.1.9.26/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Cinema HD
 http://timeshift-proxy.powernet.com.ru/239.1.9.27/mpegts
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ROCK
-http://timeshift-proxy.powernet.com.ru/239.1.9.15/mpegts
 
 
 
