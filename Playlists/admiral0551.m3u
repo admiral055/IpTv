@@ -34,7 +34,20 @@ http://timeshift-proxy.powernet.com.ru/239.1.10.35/mpegts
 http://timeshift-proxy.powernet.com.ru/239.1.9.29/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,TV XXI
 http://timeshift-proxy.powernet.com.ru/239.1.9.28/mpegts
-
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ЭТНО
+http://timeshift-proxy.powernet.com.ru/239.1.12.26/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ФРЭШ
+http://timeshift-proxy.powernet.com.ru/239.1.12.13/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
+http://timeshift-proxy.powernet.com.ru/239.1.12.12/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bolt HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.25/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Family HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.26/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Cinema HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.27/mpegts
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ROCK
+http://timeshift-proxy.powernet.com.ru/239.1.9.15/mpegts
 
 
 
@@ -298,9 +311,9 @@ http://10.200.201.46/voprosiiotveti/index.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/hpp37hudm1cxjir/%D0%9C%D0%B0%D1%82%D1%87%21%20HD.png?dl=1" ,Матч! HD
 udp://@239.1.8.4:1234
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/t0uxug3m7b0o3zm/%D0%9C%D0%B0%D1%82%D1%87%21.png?dl=1" ,Матч!
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Матч!
 http://10.200.201.46/matchtv/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/xbh665sfwz1lcuf/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png?dl=1" ,Футбол HD
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Футбол HD
 http://10.200.201.46/futbol/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,ТВ Спорт HD
 http://10.200.201.46/sportivniyhd/index.m3u8
