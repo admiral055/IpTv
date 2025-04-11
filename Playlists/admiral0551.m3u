@@ -26,8 +26,6 @@ http://timeshift-proxy.powernet.com.ru/239.1.11.15/mpegts
 http://timeshift-proxy.powernet.com.ru/239.1.11.6/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Sumiko HD
 http://timeshift-proxy.powernet.com.ru/239.1.11.35/mpegts
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Мультимузыка 
-http://timeshift-proxy.powernet.com.ru/multimuzika/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Пятница HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.33/mpegt
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bollywood HD
@@ -102,7 +100,8 @@ http://timeshift-proxy.powernet.com.ru/239.1.10.21/mpegts
 http://timeshift-proxy.powernet.com.ru/rijiy/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Чижик HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.7/mpegts
-
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Мультимузыка 
+http://timeshift-proxy.powernet.com.ru/multimuzika/mpegts
 
 
 
