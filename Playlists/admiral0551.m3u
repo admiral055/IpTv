@@ -579,7 +579,7 @@ http://cdn.adultiptv.net/livecams.m3u8
 10.200.250.22 tv-cache2.powernet.com.ru
 10.200.250.26 tv-cache3.powernet.com.ru
 10.200.250.30 tv-cache4.powernet.com.ru
-10.200.201.46 timeshift5.powernet
+10.200.201.46 timeshift5.powernet timeshift-proxy.powernet.com.ru
 10.200.201.69
 10.200.201.71 timeshift4.powernet
 10.200.201.73 timeshift2.powernet
