@@ -49,13 +49,20 @@ http://10.200.201.13/disney/index.m3u8
 http://10.200.201.46/detskiy/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,BABY TIME
 http://timeshift-proxy.powernet.com.ru/239.1.12.25/mpegts
-
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Cartoon Classics
+http://timeshift-proxy.powernet.com.ru/239.1.10.21/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
+http://timeshift-proxy.powernet.com.ru/rijiy/mpegts
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Чижик HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.7/mpegts
 
 
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
 http://10.200.201.73/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
 http://10.200.201.46/tnt4/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="" ,Че
+http://timeshift-proxy.powernet.com.ru/che/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
 http://10.200.201.46/2x2/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
@@ -299,8 +306,6 @@ http://10.200.201.46/bridgetvclassic/index.m3u8
 http://10.200.201.46/bridgetvrusskiyhit/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Europa Plus TV
 http://10.200.201.46/europaplustv/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,9 волна
-http://10.200.201.46/abctv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="0!2 hd" tvg-logo="" ,0!2 HD
 http://10.200.201.46/o!2tvhd/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="https://www.dropbox.com/s/jl4sjne3spi38ol/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8.png?dl=1" ,Телеканал народной музыки
