@@ -28,8 +28,6 @@ http://timeshift-proxy.powernet.com.ru/239.1.11.35/mpegts
 http://timeshift-proxy.powernet.com.ru/239.1.10.33/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bollywood HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.29/mpegts
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,СТС Love
-http://timeshift-proxy.powernet.com.ru/stslove/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,ТВ3 HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.35/mpegts
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Любимое кино
