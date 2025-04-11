@@ -47,8 +47,8 @@ http://10.200.201.46/vgostyahuskazki/index.m3u8
 http://10.200.201.13/disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
 http://10.200.201.46/detskiy/video.m3u8
-
-
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,BABY TIME
+http://timeshift-proxy.powernet.com.ru/239.1.12.25/mpegts
 
 
 
