@@ -48,9 +48,8 @@ http://timeshift-proxy.powernet.com.ru/239.1.9.25/index.m3u8
 http://timeshift-proxy.powernet.com.ru/239.1.9.26/index.m3u8
 #EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Cinema HD
 http://timeshift-proxy.powernet.com.ru/239.1.9.27/index.m3u8
-
-
-
+#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,ВОЛЖСКИЙ+ (POWERNET)
+http://timeshift-proxy.powernet.com.ru/volzsky+/index.m3u8
 
 
 
