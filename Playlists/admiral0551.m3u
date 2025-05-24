@@ -139,7 +139,7 @@ http://timeshift-proxy.powernet.com.ru/239.1.11.13/index.m3u8
 http://timeshift-proxy.powernet.com.ru/239.1.11.15/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Bollywood HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.29/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалыы" tvg-name="" tvg-logo="" ,Любимое кино
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Любимое кино
 http://timeshift-proxy.powernet.com.ru/239.1.9.29/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,TV XXI
 http://timeshift-proxy.powernet.com.ru/239.1.9.28/index.m3u8
@@ -343,7 +343,7 @@ http://10.200.201.46/bridgetvrusskiyhit/index.m3u8
 http://timeshift-proxy.powernet.com.ru/239.1.12.26/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ФРЭШ
 http://timeshift-proxy.powernet.com.ru/239.1.12.13/index.m3u8
-#EXTINF:-1 group-title="НМузыка" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
 http://timeshift-proxy.powernet.com.ru/239.1.12.12/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ROCK
 http://timeshift-proxy.powernet.com.ru/239.1.9.15/index.m3u8
