@@ -1,344 +1,82 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/29hzehnu9mb25bs/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20HD.png?dl=1" ,Первый канал HD
-http://10.200.201.46/1hd/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ufmhrym84f4xrps/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Первый канал
-http://10.200.201.73/perviykanal/mpegts
+http://10.200.201.46/1hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/c1uay8m2zcea9yi/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20HD.png?dl=1" ,Россия 1 HD
-http://10.200.201.46/rossia1hd/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/hz8sxyw9mrco74s/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.png?dl=1" ,Россия 1
-http://10.200.201.73/rossia1/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/y1foyd0n83wczpo/%D0%9D%D0%A2%D0%92%20HD.png?dl=1" ,НТВ HD
-http://10.200.201.46/ntvhd/mpegts
+http://10.200.201.46/rossia1hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
-http://10.200.201.73/ntv/mpegts
+http://10.200.201.73/ntv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/f69llal9vk8gtu4/%D0%A0%D0%B5%D0%BD.png?dl=1" ,Рен ТВ
-http://10.200.201.13/rentv/mpegts
+http://10.200.201.13/rentv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
-http://10.200.201.73/5kanal/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ucq9i89jgvutfy5/%D0%A2%D0%923.png?dl=1" ,ТВ3
-http://10.200.201.46/tv3/mpegts
+http://10.200.201.73/5kanal/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,ТВ3 HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.35/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfgbuey9lc81yyl/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png?dl=1" ,Звезда
-http://10.200.201.46/zvezda/mpegts
+http://10.200.201.46/zvezda/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/w80hyw9x27jylt7/%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png?dl=1" ,ТВ Центр
-http://10.200.201.46/tvcentr/mpegts
+http://10.200.201.46/tvcentr/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/mrfzynpettqbak0/%D0%9E%D0%A2%D0%A0.png?dl=1" ,ОТР
-http://10.200.201.46/otr/mpegts
+http://10.200.201.46/otr/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="360° hd" tvg-logo="https://www.dropbox.com/s/76h5h8zzecf72nq/360%20HD.png?dl=1" ,360° HD
-http://10.200.201.46/360hd/mpegts
+http://10.200.201.46/360hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/wk7ivv97jn4br4o/8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,8 канал
-http://10.200.201.46/8kanal/mpegts
+http://10.200.201.46/8kanal/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/peqkc58shuxne1j/%D0%9C%D0%B8%D1%80.png?dl=1" ,Мир
-http://10.200.201.46/mir/mpegts
+http://10.200.201.46/mir/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64prwjxbc8z40hb/%D0%9C%D0%98%D0%A0%2024.png?dl=1" ,Мир 24
-http://10.200.201.46/mir24/mpegts
+http://10.200.201.46/mir24/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/2cgsb33mgqhruat/%D0%A0%D0%91%D0%9A.png?dl=1" ,РБК
-http://10.200.201.46/rbk/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/5lqca9fgfskw217/Russia%20today.png?dl=1", Russia Today
-http://10.200.201.46/russiatoday/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/kxwyrq9fzctpsy9/RT%D0%942.png?dl=1" ,RTД
-http://10.200.201.11/russiatodaydochd-online/mpegts
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,Нинка
-rtsp://10.10.10.100:8554/Lechange?video=all&audio=all
-
-
-
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnt_hd.png", ТНТ HD
-http://10.200.201.46/tnthd-online/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
-http://10.200.201.73/tnt/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
-http://10.200.201.46/tnt4/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
-http://10.200.201.46/2x2/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
-http://10.200.201.46/pyatnica/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/0xtyg6x03bsk1ur/%D0%A7%D0%B5.png?dl=1" ,Че
-http://10.200.201.11/che-online/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
-http://10.200.201.46/yu/mpegts
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
-http://10.200.201.73/sts/mpegts
+http://10.200.201.46/rbk/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
-http://10.200.201.46/mama/mpegts
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
-http://10.200.201.46/multhd/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
-http://10.200.201.46/rijiy/mpegts
+http://10.200.201.46/multhd/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
+http://10.200.201.13/mama/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
-http://10.200.201.46/karusel/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" , Мульт и музыка
-http://10.200.201.46/multhd/mpegts
+http://10.200.201.46/karusel/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
-http://10.200.201.46/vgostyahuskazki/mpegts
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Disney
-http://10.200.201.13/disney/mpegts
+http://10.200.201.46/vgostyahuskazki/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Солнце
+http://10.200.201.13/disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
 http://10.200.201.46/detskiy/video.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,BABY TIME
+http://timeshift-proxy.powernet.com.ru/239.1.12.25/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Cartoon Classics
+http://timeshift-proxy.powernet.com.ru/239.1.10.21/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
+http://timeshift-proxy.powernet.com.ru/rijiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Чижик HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.7/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мультимузыка 
+http://timeshift-proxy.powernet.com.ru/multimuzika/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Sumiko HD
+http://timeshift-proxy.powernet.com.ru/239.1.11.35/index.m3u8
+
+
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
+http://10.200.201.73/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
+http://10.200.201.46/tnt4/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
+http://10.200.201.46/2x2/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="" ,Пятница HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.33/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
+http://timeshift-proxy.powernet.com.ru/yu/mpegts
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
+http://10.200.201.73/sts/index.m3u8
 
 
 
 
-
-
-
-
-
-#EXTINF:413 group-title="Маша и Медведь",1 серия Первая встреча
-http://10.10.10.1:8200/MediaItems/367.mkv
-#EXTINF:413 group-title="Маша и Медведь",2 серия До весны не будить
-http://10.10.10.1:8200/MediaItems/401.mkv
-#EXTINF:486 group-title="Маша и Медведь",3 серия Раз, два, три! Ёлочка гори
-http://10.10.10.1:8200/MediaItems/403.mkv
-#EXTINF:421 group-title="Маша и Медведь",4 серия Весна пришла
-http://10.10.10.1:8200/MediaItems/390.mkv
-#EXTINF:415 group-title="Маша и Медведь",5 серия Ловись, рыбка!
-http://10.10.10.1:8200/MediaItems/400.mkv
-#EXTINF:437 group-title="Маша и Медведь",6 серия Следы невиданных зверей
-http://10.10.10.1:8200/MediaItems/409.mkv
-#EXTINF:433 group-title="Маша и Медведь",7 серия С волками жить
-http://10.10.10.1:8200/MediaItems/410.mkv
-#EXTINF:431 group-title="Маша и Медведь",8 серия Позвони мне, позвони
-http://10.10.10.1:8200/MediaItems/433.mkv
-#EXTINF:410 group-title="Маша и Медведь",9 серия День варенья
-http://10.10.10.1:8200/MediaItems/380.mkv
-#EXTINF:412 group-title="Маша и Медведь", 10 серия Праздник на льду
-http://10.10.10.1:8200/MediaItems/426.mkv
-#EXTINF:411 group-title="Маша и Медведь", 11 серия Первый раз в первый класс
-http://10.10.10.1:8200/MediaItems/388.mkv
-#EXTINF:419 group-title="Маша и Медведь", 12 серия Граница на замке
-http://10.10.10.1:8200/MediaItems/413.mkv
-#EXTINF:401 group-title="Маша и Медведь", 13 серия Кто не спрятался, я не виноват
-http://10.10.10.1:8200/MediaItems/373.mkv
-#EXTINF:419 group-title="Маша и Медведь", 14 серия Лыжню
-http://10.10.10.1:8200/MediaItems/420.mkv
-#EXTINF:418 group-title="Маша и Медведь", 15 серия Будьте здоровы
-http://10.10.10.1:8200/MediaItems/421.mkv
-#EXTINF:412 group-title="Маша и Медведь", 16 серия Маша+каша
-http://10.10.10.1:8200/MediaItems/377.mkv
-#EXTINF:418 group-title="Маша и Медведь", 17 серия Дальний родственник
-http://10.10.10.1:8200/MediaItems/408.mkv
-#EXTINF:406 group-title="Маша и Медведь", 18 серия Большая стирка
-http://10.10.10.1:8200/MediaItems/406.mkv
-#EXTINF:432 group-title="Маша и Медведь", 19 серия Репетиция оркестра
-http://10.10.10.1:8200/MediaItems/412.mkv
-#EXTINF:434 group-title="Маша и Медведь", 20 серия Усатый - Полосатый
-http://10.10.10.1:8200/MediaItems/419.mkv
-#EXTINF:430 group-title="Маша и Медведь", 21 серия Один дома
-http://10.10.10.1:8200/MediaItems/416.mkv
-#EXTINF:430 group-title="Маша и Медведь", 22 серия Дышите! Не дышите!
-http://10.10.10.1:8200/MediaItems/383.mkv
-#EXTINF:433 group-title="Маша и Медведь", 23 серия Подкидыш
-http://10.10.10.1:8200/MediaItems/438.mkv
-#EXTINF:432 group-title="Маша и Медведь", 24 серия Приятного аппетита
-http://10.10.10.1:8200/MediaItems/411.mkv
-#EXTINF:432 group-title="Маша и Медведь", 25 серия Фокус-покус
-http://10.10.10.1:8200/MediaItems/428.mkv
-#EXTINF:431 group-title="Маша и Медведь", 26 серия Осторожно, ремонт!
-http://10.10.10.1:8200/MediaItems/384.mkv
-#EXTINF:429 group-title="Маша и Медведь", 27 серия Картина маслом
-http://10.10.10.1:8200/MediaItems/405.mkv
-#EXTINF:413 group-title="Маша и Медведь", 28 серия Ход конем
-http://10.10.10.1:8200/MediaItems/418.mkv
-#EXTINF:414 group-title="Маша и Медведь", 29 серия Хит сезона
-http://10.10.10.1:8200/MediaItems/440.mkv
-#EXTINF:419 group-title="Маша и Медведь", 30 серия Витамин роста
-http://10.10.10.1:8200/MediaItems/404.mkv
-#EXTINF:417 group-title="Маша и Медведь", 31 серия Когда все дома
-http://10.10.10.1:8200/MediaItems/398.mkv
-#EXTINF:414 group-title="Маша и Медведь", 32 серия Новая метла
-http://10.10.10.1:8200/MediaItems/392.mkv
-#EXTINF:417 group-title="Маша и Медведь", 33 серия Сладкая жизнь
-http://10.10.10.1:8200/MediaItems/435.mkv
-#EXTINF:416 group-title="Маша и Медведь", 34 серия Фотография 9x12
-http://10.10.10.1:8200/MediaItems/391.mkv
-#EXTINF:414 group-title="Маша и Медведь", 35 серия Трудно быть маленьким
-http://10.10.10.1:8200/MediaItems/437.mkv
-#EXTINF:415 group-title="Маша и Медведь", 36 серия Двое на одного
-http://10.10.10.1:8200/MediaItems/424.mkv
-#EXTINF:418 group-title="Маша и Медведь", 37 серия Большое путешествие
-http://10.10.10.1:8200/MediaItems/450.mkv
-#EXTINF:413 group-title="Маша и Медведь", 38 серия Нынче всё наоборот
-http://10.10.10.1:8200/MediaItems/374.mkv
-#EXTINF:414 group-title="Маша и Медведь", 39 серия Сказка на ночь
-http://10.10.10.1:8200/MediaItems/431.mkv
-#EXTINF:414 group-title="Маша и Медведь", 40 серия Красота - страшная сила
-http://10.10.10.1:8200/MediaItems/397.mkv
-#EXTINF:414 group-title="Маша и Медведь", 41 серия Дело в шляпе
-http://10.10.10.1:8200/MediaItems/394.mkv
-#EXTINF:414 group-title="Маша и Медведь", 42 серия День кино
-http://10.10.10.1:8200/MediaItems/395.mkv
-#EXTINF:415 group-title="Маша и Медведь", 43 серия Героями не рождаются
-http://10.10.10.1:8200/MediaItems/449.mkv
-#EXTINF:414 group-title="Маша и Медведь", 44 серия Раз в году
-http://10.10.10.1:8200/MediaItems/430.mkv
-#EXTINF:418 group-title="Маша и Медведь", 45 серия Запутанная история
-http://10.10.10.1:8200/MediaItems/414.mkv
-#EXTINF:414 group-title="Маша и Медведь", 46 серия Учитель танцев
-http://10.10.10.1:8200/MediaItems/396.mkv
-#EXTINF:453 group-title="Маша и Медведь", 47 серия Крик победы
-http://10.10.10.1:8200/MediaItems/427.mkv
-#EXTINF:424 group-title="Маша и Медведь", 48 серия Пещерный медведь
-http://10.10.10.1:8200/MediaItems/436.mkv
-#EXTINF:415 group-title="Маша и Медведь", 49 серия Дорогая передача
-http://10.10.10.1:8200/MediaItems/389.mkv
-#EXTINF:433 group-title="Маша и Медведь", 50 серия Праздник урожая
-http://10.10.10.1:8200/MediaItems/415.mkv
-#EXTINF:439 group-title="Маша и Медведь", 51 серия Неуловимые Мстители
-http://10.10.10.1:8200/MediaItems/354.mkv
-#EXTINF:421 group-title="Маша и Медведь", 52 серия До новых встреч!
-http://10.10.10.1:8200/MediaItems/333.mkv
-#EXTINF:414 group-title="Маша и Медведь", 53 серия На круги своя
-http://10.10.10.1:8200/MediaItems/353.mkv
-#EXTINF:488 group-title="Маша и Медведь", 54 серия В гостях у сказки
-http://10.10.10.1:8200/MediaItems/344.mkv
-#EXTINF:472 group-title="Маша и Медведь", 55 серия Эх, прокачу!
-http://10.10.10.1:8200/MediaItems/323.mkv
-#EXTINF:417 group-title="Маша и Медведь", 56 серия Страшно, аж жуть!
-http://10.10.10.1:8200/MediaItems/362.mkv
-#EXTINF:445 group-title="Маша и Медведь", 57 серия На привале.
-http://10.10.10.1:8200/MediaItems/341.mkv
-#EXTINF:468 group-title="Маша и Медведь", 58 серия Кошки-мышки.
-http://10.10.10.1:8200/MediaItems/352.mkv
-#EXTINF:446 group-title="Маша и Медведь", 59 серия Game Over
-http://10.10.10.1:8200/MediaItems/339.mkv
-#EXTINF:476 group-title="Маша и Медведь", 60 серия К вашим услугам!
-http://10.10.10.1:8200/MediaItems/336.mkv
-#EXTINF:448 group-title="Маша и Медведь", 61 серия С любимыми не расставайтесь
-http://10.10.10.1:8200/MediaItems/324.mkv
-#EXTINF:443 group-title="Маша и Медведь", 62 серия Спи, моя радость, усни!
-http://10.10.10.1:8200/MediaItems/365.mkv
-#EXTINF:453 group-title="Маша и Медведь", 63 серия Сюрприз! Сюрприз!
-http://10.10.10.1:8200/MediaItems/325.mkv
-#EXTINF:486 group-title="Маша и Медведь", 64 серия Три Машкетёра
-http://10.10.10.1:8200/MediaItems/334.mkv
-#EXTINF:473 group-title="Маша и Медведь", 65 серия Маша и Медведь - Есть контакт!
-http://10.10.10.1:8200/MediaItems/359.mkv
-#EXTINF:446 group-title="Маша и Медведь", 66 серия Маша и Медведь - Спокойствие, только спокойствие!
-http://10.10.10.1:8200/MediaItems/321.mkv
-#EXTINF:450 group-title="Маша и Медведь", 67 серия Маша и Медведь - Цирк, да и только
-http://10.10.10.1:8200/MediaItems/327.mkv
-#EXTINF:443 group-title="Маша и Медведь", 68 серия Маша и Медведь - Квартет плюс
-http://10.10.10.1:8200/MediaItems/351.mkv
-#EXTINF:471 group-title="Маша и Медведь", 69 серия Маша и Медведь - Сколько волка ни корми
-http://10.10.10.1:8200/MediaItems/337.mkv
-#EXTINF:493 group-title="Маша и Медведь", 70 серия Маша и Медведь - Звезда с неба
-http://10.10.10.1:8200/MediaItems/434.mkv
-#EXTINF:460 group-title="Маша и Медведь", 71 серия Вот такой хоккей!
-http://10.10.10.1:8200/MediaItems/407.mkv
-#EXTINF:444 group-title="Маша и Медведь", 72 серия Шарики и Кубики.
-http://10.10.10.1:8200/MediaItems/445.mkv
-#EXTINF:439 group-title="Маша и Медведь", 73 серия Случай на рыбалке.
-http://10.10.10.1:8200/MediaItems/393.mkv
-#EXTINF:436 group-title="Маша и Медведь", 74 серия Вот как бывает!
-http://10.10.10.1:8200/MediaItems/429.mkv
-#EXTINF:511 group-title="Маша и Медведь", 75 серия Не царское дело!
-http://10.10.10.1:8200/MediaItems/423.mkv
-#EXTINF:505 group-title="Маша и Медведь", 76 серия Вся жизнь - театр!
-http://10.10.10.1:8200/MediaItems/451.mkv
-#EXTINF:445 group-title="Маша и Медведь", 77 серия Вокруг света за один час
-http://10.10.10.1:8200/MediaItems/447.mkv
-#EXTINF:437 group-title="Маша и Медведь", 78 серия Кем Быть
-http://10.10.10.1:8200/MediaItems/452.mkv
-#EXTINF:386 group-title="Маша и Медведь", 79 серия Там все любят петь
-http://10.10.10.1:8200/MediaItems/442.mkv
-#EXTINF:403 group-title="Маша и Медведь", 80 серия Последний писк моды
-http://10.10.10.1:8200/MediaItems/446.mkv
-#EXTINF:358 group-title="Маша и Медведь", 81 серия Терпение и Труд - Das Ist Gut!
-http://10.10.10.1:8200/MediaItems/370.mkv
-#EXTINF:394 group-title="Маша и Медведь", 82 серия Делу время, а карнавал раз в год!
-http://10.10.10.1:8200/MediaItems/441.mkv
-#EXTINF:391 group-title="Маша и Медведь", 83 серия Секрет Машуко
-http://10.10.10.1:8200/MediaItems/432.mkv
-#EXTINF:406 group-title="Маша и Медведь", 84 серия Из Англии с любовью
-http://10.10.10.1:8200/MediaItems/382.mkv
-#EXTINF:364 group-title="Маша и Медведь", 85 серия Опять Новый Год!
-http://10.10.10.1:8200/MediaItems/372.mkv
-#EXTINF:430 group-title="Маша и Медведь", 86 серия Испанские Мотивы
-http://10.10.10.1:8200/MediaItems/443.mkv
-#EXTINF:344 group-title="Маша и Медведь", 87 серия Когда цветут кактусы
-http://10.10.10.1:8200/MediaItems/448.mkv
-#EXTINF:353 group-title="Маша и Медведь", 88 серия Почти древнегреческая история
-http://10.10.10.1:8200/MediaItems/439.mkv
-#EXTINF:395 group-title="Маша и Медведь", 89 серия Восточные Сказки
-http://10.10.10.1:8200/MediaItems/402.mkv
-#EXTINF:380 group-title="Маша и Медведь", 90 серия Однажды на Диком Западе!
-http://10.10.10.1:8200/MediaItems/422.mkv
-#EXTINF:394 group-title="Маша и Медведь", 91 серия Чай со слоном!
-http://10.10.10.1:8200/MediaItems/376.mkv
-#EXTINF:474 group-title="Маша и Медведь", 92 серия Большой поход
-http://10.10.10.1:8200/MediaItems/368.mkv
-#EXTINF:511 group-title="Маша и Медведь", 93 серия Что внутри
-http://10.10.10.1:8200/MediaItems/425.mkv
-#EXTINF:456 group-title="Маша и Медведь", 94 серия Что-нибудь вкусненькое
-http://10.10.10.1:8200/MediaItems/444.mkv
-#EXTINF:485 group-title="Маша и Медведь", 95 серия Первая ласточка
-http://10.10.10.1:8200/MediaItems/399.mkv
-#EXTINF:543 group-title="Маша и Медведь", 96 серия Грибной дождь
-http://10.10.10.1:8200/MediaItems/387.mkv
-#EXTINF:477 group-title="Маша и Медведь", 97 серия Медовый день
-http://10.10.10.1:8200/MediaItems/375.mkv
-#EXTINF:473 group-title="Маша и Медведь", 98 серия Крути педали
-http://10.10.10.1:8200/MediaItems/371.mkv
-#EXTINF:495 group-title="Маша и Медведь", 99 серия Живая шляпа
-http://10.10.10.1:8200/MediaItems/417.mkv
-#EXTINF:498 group-title="Маша и Медведь", 100 серия Калинка-Малинка
-http://10.10.10.1:8200/MediaItems/330.mkv
-#EXTINF:502 group-title="Маша и Медведь", 101 серия День хороших манер
-http://10.10.10.1:8200/MediaItems/356.mkv
-#EXTINF:440 group-title="Маша и Медведь", 102 серия Остров Сокровищ
-http://10.10.10.1:8200/MediaItems/328.mkv
-#EXTINF:458 group-title="Маша и Медведь", 103 серия Лучшая няня на свете
-http://10.10.10.1:8200/MediaItems/342.mkv
-#EXTINF:454 group-title="Маша и Медведь", 104 серия Кто за старшего
-http://10.10.10.1:8200/MediaItems/326.mkv
-#EXTINF:409 group-title="Маша и Медведь", 105 серия Танцуют все
-http://10.10.10.1:8200/MediaItems/340.mkv
-#EXTINF:439 group-title="Маша и Медведь", 106 серия Дела сердечные
-http://10.10.10.1:8200/MediaItems/347.mkv
-#EXTINF:413 group-title="Маша и Медведь", 107 серия Тушите.Не.тушите
-http://10.10.10.1:8200/MediaItems/358.mkv
-#EXTINF:432 group-title="Маша и Медведь", 108 серия Макароны.по-флотски
-http://10.10.10.1:8200/MediaItems/348.mkv
-#EXTINF:448 group-title="Маша и Медведь", 109 серия Венок из одуванчиков
-http://10.10.10.1:8200/MediaItems/361.mkv
-#EXTINF:442 group-title="Маша и Медведь", 110 серия Шкатулка с сюрпризом
-http://10.10.10.1:8200/MediaItems/329.mkv
-#EXTINF:427 group-title="Маша и Медведь", 111 серия Удар,еще удар!
-http://10.10.10.1:8200/MediaItems/357.mkv
-#EXTINF:429 group-title="Маша и Медведь", 112 серия Кушать подано!
-http://10.10.10.1:8200/MediaItems/363.mkv
-#EXTINF:477 group-title="Маша и Медведь", 113 серия Ехали медведи!
-http://10.10.10.1:8200/MediaItems/331.mkv
-#EXTINF:446 group-title="Маша и Медведь", 114 серия Спасайся кто может!
-http://10.10.10.1:8200/MediaItems/346.mkv
-#EXTINF:437 group-title="Маша и Медведь", 115 серия Чудо в перьях!
-http://10.10.10.1:8200/MediaItems/364.mkv
-#EXTINF:426 group-title="Маша и Медведь", 116 серия Мишка на юге
-http://10.10.10.1:8200/MediaItems/332.mkv
-#EXTINF:443 group-title="Маша и Медведь", 117 серия Драконов.день
-http://10.10.10.1:8200/MediaItems/355.mkv
-#EXTINF:425 group-title="Маша и Медведь", 118 серия Мечтать полезно
-http://10.10.10.1:8200/MediaItems/335.mkv
-#EXTINF:439 group-title="Маша и Медведь", 119 серия Всем нужен гол
-http://10.10.10.1:8200/MediaItems/360.mkv
-#EXTINF:412 group-title="Маша и Медведь", 120 серия Раз-картошка, два-морковка!
-http://10.10.10.1:8200/MediaItems/343.mkv
-#EXTINF:439 group-title="Маша и Медведь", 121 серия Новый друг
-http://10.10.10.1:8200/MediaItems/349.mkv
-#EXTINF:430 group-title="Маша и Медведь", 122 серия Мыть или не мыть
-http://10.10.10.1:8200/MediaItems/345.mkv
-#EXTINF:428 group-title="Маша и Медведь", 123 серия Топ-топ-топ
-http://10.10.10.1:8200/MediaItems/350.mkv
-#EXTINF:460 group-title="Маша и Медведь", 124 серия Принцесса и чудовище
-http://10.10.10.1:8200/MediaItems/322.mkv
-#EXTINF:465 group-title="Маша и Медведь", 125 серия Картонные спасатели
-http://10.10.10.1:8200/MediaItems/338.mkv
 
 
 
@@ -371,7 +109,7 @@ http://10.10.10.1:8200/MediaItems/338.mkv
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/ryk3zw0zq8a0mx5/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F.png?dl=1" ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/07ka8pqtbdltp0c/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png?dl=1" ,Россия 24
-http://10.200.201.46/rossia24/mpegts
+http://10.200.201.46/rossia24/index.m3u8
 
 
 
@@ -379,60 +117,89 @@ http://10.200.201.46/rossia24/mpegts
 
 
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Советская Киноклассика HD 
+http://timeshift-proxy.powernet.com.ru/239.1.9.5/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Патриот 
+http://timeshift-proxy.powernet.com.ru/239.1.10.4/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,VHS-ка HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.14/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Romance
+http://timeshift-proxy.powernet.com.ru/239.1.10.16/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Suspense
+http://timeshift-proxy.powernet.com.ru/239.1.10.19/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,viju TV1000
+http://timeshift-proxy.powernet.com.ru/239.1.12.4/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,viju TV1000 Русское
+http://timeshift-proxy.powernet.com.ru/239.1.12.6/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,viju TV1000 Action
+http://timeshift-proxy.powernet.com.ru/239.1.12.5/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,День Победы HD
+http://timeshift-proxy.powernet.com.ru/239.1.11.13/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Scream HD
+http://timeshift-proxy.powernet.com.ru/239.1.11.15/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Bollywood HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.29/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалыы" tvg-name="" tvg-logo="" ,Любимое кино
+http://timeshift-proxy.powernet.com.ru/239.1.9.29/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,TV XXI
+http://timeshift-proxy.powernet.com.ru/239.1.9.28/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Bolt HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.25/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Star Family HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.26/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Star Cinema HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.27/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfocql2azm5f7uw/%D0%9D%D0%A1%D0%A2.png?dl=1" ,НСТ
-http://10.200.201.46/nst/mpegts
+http://10.200.201.46/nst/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/tdoch3479srtd1p/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7.png?dl=1" ,Кинопоказ
-http://10.200.201.46/kinopokaz/mpegts
+http://10.200.201.46/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="sony turbo" tvg-logo="https://www.dropbox.com/s/l9gufw42blzvx4f/Black.png?dl=1" ,Black
-http://10.200.201.46/sonyturbo/mpegts
+http://10.200.201.46/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zl49ftw8ge67mpx/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png?dl=1" ,Мосфильм. Золотая коллекция
-http://10.200.201.73/mosfilm/mpegts
+http://10.200.201.73/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/dfxjozz0wbzfmn4/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Еврокино
-http://10.200.201.46/evrokino/mpegts
+http://10.200.201.46/evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ujh35l6ckja048m/%D0%98%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20%2B.png?dl=1" ,Иллюзион +
-http://10.200.201.46/illusionplus/mpegts
+http://10.200.201.46/illusionplus/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/t5htjr96bz1n0ru/Cinena.png?dl=1" ,Cinema
-http://10.200.201.46/cinema/mpegts
+http://10.200.201.46/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/cz31pnjtlx0b6qo/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD.png?dl=1" ,Кино ТВ HD
-http://10.200.201.46/kinotvhd/mpegts
+http://10.200.201.46/kinotvhd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/pagutj21m59ckkb/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png?dl=1" ,Кино ТВ
-http://10.200.201.46/kinotv/mpegts
+http://10.200.201.46/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/fl5cy2k0qcp7mfp/%D0%9D%D0%A2%D0%92%20%D0%A5%D0%98%D0%A2.png?dl=1" ,НТВ ХИТ
-http://10.200.201.46/ntv-hit/mpegts
+http://10.200.201.46/ntv-hit/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/x04cno546lpt2dg/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png?dl=1" ,НТВ Сериал
-http://10.200.201.46/ntv-serial/mpegts
+http://10.200.201.46/ntv-serial/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/3cbqtxclzpbvz06/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png?dl=1" ,НТВ Право
-http://10.200.201.46/ntv-pravo/mpegts
+http://10.200.201.46/ntv-pravo/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/c50v91fm51pypop/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2.png?dl=1" ,Русский детектив
-http://10.200.201.46/russkiydetectiv/mpegts
+http://10.200.201.46/russkiydetectiv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/xdo7zgaodjt0wkn/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80.png?dl=1" ,Русский бестселлер
-http://10.200.201.46/russkiybestseller/mpegts
+http://10.200.201.46/russkiybestseller/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/3cl2ivtavov21s6/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD.png?dl=1" ,Русский роман
-http://10.200.201.46/russkiyroman/mpegts
+http://10.200.201.46/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ynu2ct7j1y24hie/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD.png?dl=1" ,Русский иллюзион
-http://10.200.201.46/russkiyilusion/mpegts
+http://10.200.201.46/russkiyilusion/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/yuw3sg6ak7c9ay6/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Советское кино
-http://10.200.201.46/sovetskoyekino/mpegts
+http://10.200.201.46/sovetskoyekino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/lsjyiono6hkpmej/%D0%A0%D0%95%D0%A2%D0%A0%D0%9E.png?dl=1" ,Ретро
-http://10.200.201.46/retro/mpegts
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zqqasse85bivd0m/%D0%A1%D0%A2%D0%A1%20Love.png?dl=1" ,СТС Love
-http://10.200.201.46/stslove/mpegts
+http://10.200.201.46/retro/index.m3u
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/1p40ur6n8epfodb/%D0%A1%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD.png?dl=1" ,Сарафан
-http://10.200.201.46/sarafan/mpegts
+http://10.200.201.46/sarafan/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/xqbt1ssqjscar5l/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png?dl=1" ,Комедия
-http://10.200.201.46/komedia/mpegts
+http://10.200.201.46/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/do09o6o3ln0mbpc/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png?dl=1" ,Суббота!
-http://10.200.201.46/super/mpegts
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/2h23qi6msfi8oyi/Zee%20TV.png?dl=1" ,Zee TV
-http://10.200.201.46/zeetv/mpegts
+http://10.200.201.46/super/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/9jwz9g1pyn3btc6/%D0%94%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.png?dl=1" ,Дорама HD
-http://10.200.201.46/doramahd/mpegts
+http://10.200.201.46/doramahd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema 4k" tvg-logo="https://www.dropbox.com/s/9linn7q7yo72lef/Ultra%20HD%20Cinema%204K.png?dl=1", Ultra HD Cinema 4K
-http://10.200.201.46/ultrahdcinema/mpegts
+http://10.200.201.46/ultrahdcinema/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema hd" tvg-logo="https://www.dropbox.com/s/871775rfqyhmhv0/Ultra%20HD%20Cinema%20HD.png?dl=1" ,Ultra HD Cinema HD
-http://10.200.201.46/ultrahdcinemahd/mpegts
-
+http://10.200.201.46/ultrahdcinemahd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Театр
+http://timeshift-proxy.powernet.com.ru/239.1.11.6/index.m3u8
 
 
 
@@ -455,51 +222,51 @@ http://10.200.201.46/ultrahdcinemahd/mpegts
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/d6r7lscyjmsauyw/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png?dl=1" ,Наука 2.0
-http://10.200.201.46/nauka20/mpegts
+http://10.200.201.46/nauka20/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="т24" tvg-logo="https://www.dropbox.com/s/m3x6e5txsmkr29c/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%2024.png?dl=1" ,Техно 24
-http://10.200.201.46/tehno24/mpegts
+http://10.200.201.46/tehno24/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/yijuivoanu9vagc/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png?dl=1" ,НТВ Стиль
-http://10.200.201.46/ntv-stil/mpegts
+http://10.200.201.46/ntv-stil/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="первый космический hd" tvg-logo="https://www.dropbox.com/s/5lqc99j1xxj4d4m/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.png?dl=1" ,Первый космический HD
-http://10.200.201.46/perviykosmicheskiyhd/mpegts
+http://10.200.201.46/perviykosmicheskiyhd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/vb5g6wdwx0m8kyv/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png?dl=1" ,История
-http://10.200.201.46/istorya/mpegts
+http://10.200.201.46/istorya/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/cbustl4l9fqwxrp/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0.png?dl=1" ,Тайна
-http://10.200.201.46/tayna/mpegts
+http://10.200.201.46/tayna/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/639g1xsqr2l6t5l/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2021.png?dl=1" ,Психология 21
-http://10.200.201.46/psihologia-21/mpegts
+http://10.200.201.46/psihologia-21/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/totd0mecnsmlxuj/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B9%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%20%D0%A2%D0%92.png?dl=1" ,Калейдоскоп ТВ
-http://10.200.201.46/kaleydoskoptv/mpegts
+http://10.200.201.46/kaleydoskoptv/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="" ,Арсенал HD
-http://10.200.201.46/arsenalhd/mpegts
+http://10.200.201.46/arsenalhd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/k1zwrrdbg62hyp5/%D0%9D%D0%B0%D0%BD%D0%BE.png?dl=1" ,Нано
-http://10.200.201.46/nano/mpegts
+http://10.200.201.46/nano/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ikodioynoeba4b1/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5.png?dl=1" ,Домашние животные
-http://10.200.201.46/domashniezivotnie/mpegts
+http://10.200.201.46/domashniezivotnie/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/lqdt041q0ir1ju0/%D0%9C%D0%BE%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png?dl=1" ,Моя планета
-http://10.200.201.46/moyaplaneta/mpegts
+http://10.200.201.46/moyaplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/3q25k9sir8qag33/%D0%96%D0%B8%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png?dl=1" ,Живая планета
-http://10.200.201.46/jivayaplaneta/mpegts
+http://10.200.201.46/jivayaplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/vhif4lz5cmhx2dj/RTG%20HD.png?dl=1" ,RTG HD
-http://10.200.201.46/rtghd/mpegts
+http://10.200.201.46/rtghd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/rnsbccc2i8bwae0/RTG%20TV.png?dl=1" ,RTG TV
-http://10.200.201.46/rtg/mpegts
+http://10.200.201.46/rtg/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/o0l4xuhrcaraksa/National%20Geographic%20HD.png?dl=1" ,Terra HD
-http://10.200.201.46/nationalgeographichd/mpegts
+http://10.200.201.46/nationalgeographichd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/64jg71lvm5slaxa/National%20Geographic.png?dl=1" ,Terra
-http://10.200.201.46/nationalgeographic/mpegts
+http://10.200.201.46/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/xfea0bp63qz49ov/%D0%97%D0%BE%D0%BE%20%D0%A2%D0%92.png?dl=1" ,Зоо ТВ
-http://10.200.201.46/zootv/mpegts
+http://10.200.201.46/zootv/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/to05tuvbxzwf1ma/Zoo%D0%BF%D0%B0%D1%80%D0%BA.png?dl=1" ,Zooпарк
-http://10.200.201.46/zoopark/mpegts
+http://10.200.201.46/zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/yo5qc6vtl29dpsd/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F.png?dl=1" ,Телепутешествия
-http://10.200.201.46/teleputeshestvia/mpegts
+http://10.200.201.46/teleputeshestvia/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/1pefawlcwae8dct/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png?dl=1" ,Просвещение
-http://10.200.201.11/prosveshenie-online/mpegts
+http://10.200.201.11/prosveshenie-online/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/pbelx90h8eiow99/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A.png?dl=1" ,Россия К
-http://10.200.201.46/rossiak/mpegts
+http://10.200.201.46/rossiak/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="" tvg-logo="https://www.dropbox.com/s/qaefru10qxwndm8/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.png?dl=1" ,Вопросы и ответы
-http://10.200.201.46/voprosiiotveti/mpegts
+http://10.200.201.46/voprosiiotveti/index.m3u8
 
 
 
@@ -526,18 +293,18 @@ http://10.200.201.46/voprosiiotveti/mpegts
 
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/hpp37hudm1cxjir/%D0%9C%D0%B0%D1%82%D1%87%21%20HD.png?dl=1" ,Матч! HD
 udp://@239.1.8.4:1234
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/t0uxug3m7b0o3zm/%D0%9C%D0%B0%D1%82%D1%87%21.png?dl=1" ,Матч!
-http://10.200.201.46/matchtv/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/xbh665sfwz1lcuf/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png?dl=1" ,Футбол HD
-http://10.200.201.46/futbol/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Спортивный HD
-http://10.200.201.46/sportivniyhd/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Футбольный HD
-http://10.200.201.46/futbolniyhd/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Хоккейный HD
-http://10.200.201.73/hokkeyniyhd/mpegts
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Матч!
+http://10.200.201.46/matchtv/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Футбол HD
+http://10.200.201.46/futbol/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,ТВ Спорт HD
+http://10.200.201.46/sportivniyhd/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Мяч HD
+http://10.200.201.46/futbolniyhd/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Хоккей ТВ HD
+http://10.200.201.73/hokkeyniyhd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/v49zqk5nmpk61uo/%D0%A1%D1%82%D0%B0%D1%80%D1%82%20HD.png?dl=1", Старт HD
-http://10.200.201.46/starthd/mpegts
+http://10.200.201.46/starthd/index.m3u8
 
 
 
@@ -557,29 +324,35 @@ http://10.200.201.46/starthd/mpegts
 
 
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,ТНТ Music
-http://10.200.201.46/tntmusic/mpegts
+http://10.200.201.46/tntmusic/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,RU.TV
-http://10.200.201.46/rutv/mpegts
+http://10.200.201.46/rutv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Муз-ТВ
-http://10.200.201.46/muztv/mpegts
+http://10.200.201.46/muztv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Deluxe
-http://10.200.201.46/bridgetvdelux/mpegts
+http://10.200.201.46/bridgetvdelux/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV
-http://10.200.201.46/bridgetv/mpegts
+http://10.200.201.46/bridgetv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV HITS
-http://10.200.201.46/bridgetvhist/mpegts
+http://10.200.201.46/bridgetvhist/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Classic
-http://10.200.201.46/bridgetvclassic/mpegts
+http://10.200.201.46/bridgetvclassic/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Русский хит
-http://10.200.201.46/bridgetvrusskiyhit/mpegts
+http://10.200.201.46/bridgetvrusskiyhit/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Этно
+http://timeshift-proxy.powernet.com.ru/239.1.12.26/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ФРЭШ
+http://timeshift-proxy.powernet.com.ru/239.1.12.13/index.m3u8
+#EXTINF:-1 group-title="НМузыка" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
+http://timeshift-proxy.powernet.com.ru/239.1.12.12/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ROCK
+http://timeshift-proxy.powernet.com.ru/239.1.9.15/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Europa Plus TV
-http://10.200.201.46/europaplustv/mpegts
-#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,9 волна
-http://10.200.201.46/abctv/mpegts
+http://10.200.201.46/europaplustv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="0!2 hd" tvg-logo="" ,0!2 HD
-http://10.200.201.46/o!2tvhd/mpegts
+http://10.200.201.46/o!2tvhd/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="https://www.dropbox.com/s/jl4sjne3spi38ol/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8.png?dl=1" ,Телеканал народной музыки
-http://10.200.201.46/telekanalnarodnoymusiki/mpegts
+http://10.200.201.46/telekanalnarodnoymusiki/index.m3u8
 
 
 
@@ -594,28 +367,28 @@ http://10.200.201.46/telekanalnarodnoymusiki/mpegts
 
 
 
-
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="" ,POWERNET HD
+http://timeshift-proxy.powernet.com.ru/volzsky+/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
-http://timeshift-proxy.powernet.com.ru/volzsky+-online/mpegts
+http://timeshift-proxy.powernet.com.ru/volzsky+-online/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
 http://10.10.10.1:4022/udp/239.1.8.19:1234
-
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/N6if3eMfSzWEXe9/download" ,Волгоград 1
-http://10.200.201.46/volgograd1hd/mpegts
+http://10.200.201.46/volgograd1hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/4bf3D443WgjeAFx/download" ,Волгоград 24
-http://10.200.201.46/volgograd24hd/mpegts
+http://10.200.201.46/volgograd24hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/oDPfbsDQPof4o8o/download" ,МТВ Волгоград
-http://10.200.201.46/mtv/mpegts
+http://10.200.201.46/mtv/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/63M8rKiZTw9d6Fj/download" ,Астрахань 24
-http://10.200.201.46/astrahan24hd/mpegts
+http://10.200.201.46/astrahan24hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/d3BP9eCS8pTdeGr/download" ,Кубань 24
-http://10.200.201.46/kuban24-online/mpegts
+http://10.200.201.46/kuban24-online/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/k6JkBeDtr5odpmE/download" ,ТНВ
-http://10.200.201.46/tnvplaneta-online/mpegts
+http://10.200.201.46/tnvplaneta-online/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/w45D4FmNB5jWboN/download" ,Грозный
-http://10.200.201.46/grozniy-online/mpegts
+http://10.200.201.46/grozniy-online/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/HEoRmbqdHAfWYPB/download" ,Беларусь 24
-http://10.200.201.46/belarus24/mpegts
+http://10.200.201.46/belarus24/index.m3u8
 
 
 
@@ -634,9 +407,9 @@ http://10.200.201.46/belarus24/mpegts
 
 
 #EXTINF:-1 group-title="Политические" tvg-name="" tvg-logo="" ,Красная линия
-http://10.200.201.46/krassnayaliniya/mpegts
+http://10.200.201.46/krassnayaliniya/index.m3u8
 #EXTINF:-1 group-title="Политические" tvg-name="" tvg-logo="" ,Вместе-РФ
-http://10.200.201.46/vmeste-rf-online/mpegts
+http://10.200.201.46/vmeste-rf-online/index.m3u8
 
 
 
@@ -650,39 +423,39 @@ http://10.200.201.46/vmeste-rf-online/mpegts
 
 
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/okhotnik_i_rybolov_hd.png" ,Охотник и рыболов HD
-http://10.200.201.46/ohotniciribolovhd/mpegts
+http://10.200.201.46/ohotniciribolovhd/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/okhotnik_i_rybolov.png" ,Рыболов
-http://10.200.201.46/ohotnociribolov/mpegts
+http://10.200.201.46/ohotnociribolov/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/dialogi_o_rybalke.png", Диалоги о рыбалке
-http://10.200.201.46/dialogioribalke/mpegts
+http://10.200.201.46/dialogioribalke/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/okhota_i_rybalka.png" ,Охота и рыбалка
-http://10.200.201.46/ohotairibalka/mpegts
+http://10.200.201.46/ohotairibalka/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/russkij_ehkstrim.png" ,Russian Extreme
-http://10.200.201.46/russianextreme/mpegts
+http://10.200.201.46/russianextreme/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="" ,Живи активно
-http://10.200.201.46/jiviaktivnohd/mpegts
+http://10.200.201.46/jiviaktivnohd/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/tnomer.png" ,Тномер
-http://10.200.201.46/tnomer/mpegts
+http://10.200.201.46/tnomer/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/E.png" ,E!TV
-http://10.200.201.46/e/mpegts
+http://10.200.201.46/e/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="https://www.dropbox.com/s/sg1relw11tghd4m/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9.png?dl=1" ,Домашний
-http://10.200.201.46/domashniy/mpegts
+http://10.200.201.46/domashniy/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/tonus_tv.png" ,Тонус ТВ
-http://10.200.201.46/tonustv/mpegts
+http://10.200.201.46/tonustv/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/zdorovoe_tv.png" ,Здоровое ТВ
-http://10.200.201.46/zdorovietv/mpegts
+http://10.200.201.46/zdorovietv/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icon/usadba.png" ,Усадьба
-http://10.200.201.46/usadba/mpegts
+http://10.200.201.46/usadba/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/zagorodnyj.png" ,Загородный
-http://10.200.201.46/zagorodniy/mpegts
+http://10.200.201.46/zagorodniy/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/World_Fashion_Channel.png" ,World Fashion Channel
-http://10.200.201.46/wfc/mpegts
+http://10.200.201.46/wfc/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Luxury.png" ,Luxury
-http://10.200.201.46/luxury/mpegts
+http://10.200.201.46/luxury/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/leomax24.png" ,Leomax 24
-http://10.200.201.46/shop24-online/mpegts
+http://10.200.201.46/shop24-online/index.m3u8
 #EXTINF:-1 group-title="Стиль жизни" tvg-name="" tvg-logo="http://admiral055.ru/IPTV/Icons/Shopping_Live.png" ,Shopping Live
-http://10.200.201.46/shoppinglife-online/mpegts
+http://10.200.201.46/shoppinglife-online/index.m3u8
 
 
 
@@ -693,11 +466,11 @@ http://10.200.201.46/shoppinglife-online/mpegts
 
 
 #EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/6t6t1y0a3xyu5vz/%D0%A1%D0%BE%D1%8E%D0%B7.png?dl=1" ,Союз
-http://10.200.201.46/souz/mpegts
+http://10.200.201.46/souz/index.m3u8
 #EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/3sqfw7xe2dv7njt/%D0%A1%D0%9F%D0%90%D0%A1.png?dl=1" ,Спас
-http://10.200.201.46/spas/mpegts
+http://10.200.201.46/spas/index.m3u8
 #EXTINF:-1 group-title="Религиозные" tvg-name="" tvg-logo="https://www.dropbox.com/s/4mhnsm9ifiwzx35/%D0%A2%D1%80%D0%B8%20%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0.png?dl=1" ,Три Ангела
-http://10.200.201.46/triangela/mpegts
+http://10.200.201.46/triangela/index.m3u8
 
 
 
@@ -711,11 +484,11 @@ http://10.200.201.46/triangela/mpegts
 
 
 #EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Радио МАЯК
-http://10.200.201.11/vlg-radiomayak-online/mpegts
+http://10.200.201.11/vlg-radiomayak-online/index.m3u8
 #EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Радио России
-http://10.200.201.46/vlg-radiorossii-online/mpegts
+http://10.200.201.46/vlg-radiorossii-online/index.m3u8
 #EXTINF:-1 group-title="Радио" tvg-name="" tvg-logo="" ,Вести ФМ
-http://10.200.201.46/vlg-radiovestifm-online/mpegts
+http://10.200.201.46/vlg-radiovestifm-online/index.m3u8
 
 
 
@@ -725,11 +498,64 @@ http://10.200.201.46/vlg-radiovestifm-online/mpegts
 
 
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/eitedj8sxatzusd/Barely%20Legal.png?dl=1", Barely Legal
-http://10.200.201.46/barelylegal/mpegts
+http://10.200.201.46/barelylegal/index.m3u8
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/rpir7tr5c7iobki/FrenchLover.png?dl=1" ,French Lover
-http://10.200.201.46/frenchlover/mpegts
+http://10.200.201.46/frenchlover/index.m3u8
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/xjbbjq62dbq3llk/Blue-Hustler.png?dl=1" ,Blue Hustler HD
-http://10.200.201.46/bluehustlerhd/mpegts
+http://10.200.201.46/bluehustlerhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Эксклюзив",Playboy UK
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:0 group-title="Эксклюзив" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" ,VISIT-X TV HD
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,A GIRL KNOWS
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159953
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,ADULT TIME
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159954
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,ALL BLACK X
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159955
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,ALL GROUP SEX
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159956
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,AMATEUR EURO
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159957
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,ANALIZED
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159958
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BABES
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159959
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BANG BROS NETWORK
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159960
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BIPHORIA
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159961
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BLACKED
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159962
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BLOW ME POV
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159963
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BOX OF PORN
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159964
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BRATTY SIS
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159965
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BRAZZERS
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159966
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,BUMS BUS
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159967
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,CASTING COUCH
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159968
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,CUM 4K
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159969
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,DAGFS
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159970
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,DDF BUSTY
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159971
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,DIABOLIC
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159972
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,DIGITAL PLAYGROUND
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159973
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,DOGFART NETWORK
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159974
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,TRANS: TRANS ANGELS
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159951
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив" ,TRANS: TRANS EROTICA
+http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159952
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/czf91oebu5upu10/Porn.png?dl=1" group-title="Эксклюзив",Russian
@@ -787,35 +613,6 @@ http://cdn.adultiptv.net/livecams.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 31.128.159.9
 31.128.159.41:8080
 10.200.201.11 flussonic-streamer1.powernet
@@ -825,7 +622,7 @@ http://cdn.adultiptv.net/livecams.m3u8
 10.200.250.22 tv-cache2.powernet.com.ru
 10.200.250.26 tv-cache3.powernet.com.ru
 10.200.250.30 tv-cache4.powernet.com.ru
-10.200.201.46 timeshift5.powernet
+10.200.201.46 timeshift5.powernet timeshift-proxy.powernet.com.ru
 10.200.201.69
 10.200.201.71 timeshift4.powernet
 10.200.201.73 timeshift2.powernet
