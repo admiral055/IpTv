@@ -1,56 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Советская Киноклассика HD 
-http://timeshift-proxy.powernet.com.ru/239.1.9.5/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Патриот 
-http://timeshift-proxy.powernet.com.ru/239.1.10.4/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,VHS-ка HD
-http://timeshift-proxy.powernet.com.ru/239.1.9.14/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Romance
-http://timeshift-proxy.powernet.com.ru/239.1.10.16/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Suspense
-http://timeshift-proxy.powernet.com.ru/239.1.10.19/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,viju TV1000
-http://timeshift-proxy.powernet.com.ru/239.1.12.4/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,viju TV1000 русское
-http://timeshift-proxy.powernet.com.ru/239.1.12.6/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,viju TV1000 action
-http://timeshift-proxy.powernet.com.ru/239.1.12.5/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,День Победы HD
-http://timeshift-proxy.powernet.com.ru/239.1.11.13/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Scream HD
-http://timeshift-proxy.powernet.com.ru/239.1.11.15/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Театр
-http://timeshift-proxy.powernet.com.ru/239.1.11.6/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Sumiko HD
-http://timeshift-proxy.powernet.com.ru/239.1.11.35/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Пятница HD
-http://timeshift-proxy.powernet.com.ru/239.1.10.33/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bollywood HD
-http://timeshift-proxy.powernet.com.ru/239.1.10.29/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,ТВ3 HD
-http://timeshift-proxy.powernet.com.ru/239.1.10.35/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Любимое кино
-http://timeshift-proxy.powernet.com.ru/239.1.9.29/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,TV XXI
-http://timeshift-proxy.powernet.com.ru/239.1.9.28/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bridge TV Этно
-http://timeshift-proxy.powernet.com.ru/239.1.12.26/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ФРЭШ
-http://timeshift-proxy.powernet.com.ru/239.1.12.13/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
-http://timeshift-proxy.powernet.com.ru/239.1.12.12/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,BRIDGE ROCK
-http://timeshift-proxy.powernet.com.ru/239.1.9.15/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Bolt HD
-http://timeshift-proxy.powernet.com.ru/239.1.9.25/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Family HD
-http://timeshift-proxy.powernet.com.ru/239.1.9.26/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Star Cinema HD
-http://timeshift-proxy.powernet.com.ru/239.1.9.27/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,POWERNET HD
-http://timeshift-proxy.powernet.com.ru/volzsky+/index.m3u8
-
 
 
 
@@ -64,8 +13,8 @@ http://10.200.201.73/ntv/index.m3u8
 http://10.200.201.13/rentv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
 http://10.200.201.73/5kanal/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ucq9i89jgvutfy5/%D0%A2%D0%923.png?dl=1" ,ТВ3
-http://10.200.201.46/tv3/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="" ,ТВ3 HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.35/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfgbuey9lc81yyl/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png?dl=1" ,Звезда
 http://10.200.201.46/zvezda/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/w80hyw9x27jylt7/%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png?dl=1" ,ТВ Центр
@@ -106,9 +55,10 @@ http://timeshift-proxy.powernet.com.ru/239.1.10.21/index.m3u8
 http://timeshift-proxy.powernet.com.ru/rijiy/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Чижик HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.7/index.m3u8
-#EXTINF:-1 group-title="Новые каналы" tvg-name="" tvg-logo="" ,Мультимузыка 
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мультимузыка 
 http://timeshift-proxy.powernet.com.ru/multimuzika/index.m3u8
-
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Sumiko HD
+http://timeshift-proxy.powernet.com.ru/239.1.11.35/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
@@ -117,8 +67,8 @@ http://10.200.201.73/tnt/index.m3u8
 http://10.200.201.46/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
 http://10.200.201.46/2x2/index.m3u8
-#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
-http://10.200.201.46/pyatnica/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="" ,Пятница HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.33/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
 http://timeshift-proxy.powernet.com.ru/yu/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
@@ -167,6 +117,40 @@ http://10.200.201.46/rossia24/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Советская Киноклассика HD 
+http://timeshift-proxy.powernet.com.ru/239.1.9.5/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Патриот 
+http://timeshift-proxy.powernet.com.ru/239.1.10.4/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,VHS-ка HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.14/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Romance
+http://timeshift-proxy.powernet.com.ru/239.1.10.16/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Suspense
+http://timeshift-proxy.powernet.com.ru/239.1.10.19/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,viju TV1000
+http://timeshift-proxy.powernet.com.ru/239.1.12.4/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,viju TV1000 русское
+http://timeshift-proxy.powernet.com.ru/239.1.12.6/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалыы" tvg-name="" tvg-logo="" ,viju TV1000 action
+http://timeshift-proxy.powernet.com.ru/239.1.12.5/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,День Победы HD
+http://timeshift-proxy.powernet.com.ru/239.1.11.13/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Scream HD
+http://timeshift-proxy.powernet.com.ru/239.1.11.15/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Театр
+http://timeshift-proxy.powernet.com.ru/239.1.11.6/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Bollywood HD
+http://timeshift-proxy.powernet.com.ru/239.1.10.29/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалыы" tvg-name="" tvg-logo="" ,Любимое кино
+http://timeshift-proxy.powernet.com.ru/239.1.9.29/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,TV XXI
+http://timeshift-proxy.powernet.com.ru/239.1.9.28/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Bolt HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.25/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Star Family HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.26/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Star Cinema HD
+http://timeshift-proxy.powernet.com.ru/239.1.9.27/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfocql2azm5f7uw/%D0%9D%D0%A1%D0%A2.png?dl=1" ,НСТ
 http://10.200.201.46/nst/index.m3u8
@@ -356,6 +340,14 @@ http://10.200.201.46/bridgetvhist/index.m3u8
 http://10.200.201.46/bridgetvclassic/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Русский хит
 http://10.200.201.46/bridgetvrusskiyhit/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Bridge TV Этно
+http://timeshift-proxy.powernet.com.ru/239.1.12.26/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ФРЭШ
+http://timeshift-proxy.powernet.com.ru/239.1.12.13/index.m3u8
+#EXTINF:-1 group-title="НМузыка" tvg-name="" tvg-logo="" ,BRIDGE ШЛЯГЕР
+http://timeshift-proxy.powernet.com.ru/239.1.12.12/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,BRIDGE ROCK
+http://timeshift-proxy.powernet.com.ru/239.1.9.15/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="" tvg-logo="" ,Europa Plus TV
 http://10.200.201.46/europaplustv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="0!2 hd" tvg-logo="" ,0!2 HD
@@ -376,12 +368,12 @@ http://10.200.201.46/telekanalnarodnoymusiki/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="" ,POWERNET HD
+http://timeshift-proxy.powernet.com.ru/volzsky+/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
 http://timeshift-proxy.powernet.com.ru/volzsky+-online/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
 http://10.10.10.1:4022/udp/239.1.8.19:1234
-
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/N6if3eMfSzWEXe9/download" ,Волгоград 1
 http://10.200.201.46/volgograd1hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/4bf3D443WgjeAFx/download" ,Волгоград 24
