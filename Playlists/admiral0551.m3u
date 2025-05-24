@@ -137,8 +137,6 @@ http://timeshift-proxy.powernet.com.ru/239.1.12.5/index.m3u8
 http://timeshift-proxy.powernet.com.ru/239.1.11.13/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Scream HD
 http://timeshift-proxy.powernet.com.ru/239.1.11.15/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Театр
-http://timeshift-proxy.powernet.com.ru/239.1.11.6/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Bollywood HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.29/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалыы" tvg-name="" tvg-logo="" ,Любимое кино
@@ -200,7 +198,8 @@ http://10.200.201.46/doramahd/index.m3u8
 http://10.200.201.46/ultrahdcinema/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="ultra hd cinema hd" tvg-logo="https://www.dropbox.com/s/871775rfqyhmhv0/Ultra%20HD%20Cinema%20HD.png?dl=1" ,Ultra HD Cinema HD
 http://10.200.201.46/ultrahdcinemahd/index.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="" ,Театр
+http://timeshift-proxy.powernet.com.ru/239.1.11.6/index.m3u8
 
 
 
