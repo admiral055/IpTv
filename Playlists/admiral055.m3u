@@ -365,10 +365,6 @@ http://10.200.201.46/telekanalnarodnoymusiki/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="" ,POWERNET HD
 http://timeshift-proxy.powernet.com.ru/volzsky+/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
-http://timeshift-proxy.powernet.com.ru/volzsky+-online/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-name="POWERNET_HD" tvg-logo="" ,Волжский +
-http://10.10.10.1:4022/udp/239.1.8.19:1234
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/N6if3eMfSzWEXe9/download" ,Волгоград 1
 http://10.200.201.46/volgograd1hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/4bf3D443WgjeAFx/download" ,Волгоград 24
