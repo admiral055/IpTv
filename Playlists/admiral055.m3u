@@ -371,14 +371,6 @@ http://10.200.201.46/volgograd1hd/index.m3u8
 http://10.200.201.46/volgograd24hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/oDPfbsDQPof4o8o/download" ,МТВ Волгоград
 http://10.200.201.46/mtv/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/63M8rKiZTw9d6Fj/download" ,Астрахань 24
-http://10.200.201.46/astrahan24hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/d3BP9eCS8pTdeGr/download" ,Кубань 24
-http://10.200.201.46/kuban24-online/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/k6JkBeDtr5odpmE/download" ,ТНВ
-http://10.200.201.46/tnvplaneta-online/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/w45D4FmNB5jWboN/download" ,Грозный
-http://10.200.201.46/grozniy-online/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-name="" tvg-logo="http://10.10.10.4:81/index.php/s/HEoRmbqdHAfWYPB/download" ,Беларусь 24
 http://10.200.201.46/belarus24/index.m3u8
 
