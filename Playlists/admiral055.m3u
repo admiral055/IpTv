@@ -33,29 +33,29 @@ http://10.200.201.46/rbk/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мульт HD
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/mult.png" ,Мульт HD
 http://10.200.201.46/multhd/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мама
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/mama.png" ,Мама
 http://10.200.201.13/mama/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Карусель
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/karusel.png" ,Карусель
 http://10.200.201.46/karusel/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,В гостях у сказки
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" ,В гостях у сказки
 http://10.200.201.46/vgostyahuskazki/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Солнце
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/solnce.png" ,Солнце
 http://10.200.201.13/disney/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Уникум
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/unikum.png" ,Уникум
 http://10.200.201.46/detskiy/video.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,BABY TIME
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/baby-time.png" ,BABY TIME
 http://timeshift-proxy.powernet.com.ru/239.1.12.25/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Cartoon Classics
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" ,Cartoon Classics
 http://timeshift-proxy.powernet.com.ru/239.1.10.21/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Рыжий
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/ryzhy.png" ,Рыжий
 http://timeshift-proxy.powernet.com.ru/rijiy/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Чижик HD
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/chizhik.png" ,Чижик HD
 http://timeshift-proxy.powernet.com.ru/239.1.10.7/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Мультимузыка 
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/multimuzyka.png" ,Мультимузыка 
 http://timeshift-proxy.powernet.com.ru/multimuzika/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="" ,Sumiko HD
+#EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/sumiko.png" ,Sumiko HD
 http://timeshift-proxy.powernet.com.ru/239.1.11.35/index.m3u8
 
 
