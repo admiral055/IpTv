@@ -4,15 +4,15 @@
 
 
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/ufmhrym84f4xrps/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Первый канал
-http://10.200.201.46/perviykanal/mpegts
+http://timeshift3.powernet/239.1.8.1/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/c1uay8m2zcea9yi/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20HD.png?dl=1" ,Россия 1 HD
-http://10.200.201.46/rossia1hd/index.m3u8
+http://timeshift3.powernet/239.1.9.34/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/8oazyw3v0nfuokw/%D0%9D%D0%A2%D0%92.png?dl=1" ,НТВ
 http://timeshift3.powernet/239.1.8.7/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/f69llal9vk8gtu4/%D0%A0%D0%B5%D0%BD.png?dl=1" ,Рен ТВ
 http://10.200.201.13/rentv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
-http://10.200.201.73/5kanal/index.m3u8
+http://timeshift3.powernet/239.1.8.105/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfgbuey9lc81yyl/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png?dl=1" ,Звезда
 http://10.200.201.46/zvezda/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/w80hyw9x27jylt7/%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png?dl=1" ,ТВ Центр
@@ -60,17 +60,17 @@ http://timeshift-proxy.powernet.com.ru/239.1.11.35/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
-http://10.200.201.73/tnt/index.m3u8
+http://timeshift3.powernet/239.1.8.119/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
 http://10.200.201.46/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
 http://10.200.201.46/2x2/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
-http://10.200.201.46/pyatnica/mpegts
+http://timeshift3.powernet/239.1.8.116/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
 http://timeshift-proxy.powernet.com.ru/yu/mpegts
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
-http://10.200.201.73/sts/index.m3u8
+http://timeshift3.powernet/239.1.8.113/index.m3u8
 
 
 
@@ -155,7 +155,7 @@ http://10.200.201.46/kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="sony turbo" tvg-logo="https://www.dropbox.com/s/l9gufw42blzvx4f/Black.png?dl=1" ,Black
 http://10.200.201.46/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/zl49ftw8ge67mpx/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png?dl=1" ,Мосфильм. Золотая коллекция
-http://10.200.201.73/mosfilm/index.m3u8
+http://timeshift3.powernet/239.1.10.22/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/dfxjozz0wbzfmn4/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png?dl=1" ,Еврокино
 http://10.200.201.46/evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-name="" tvg-logo="https://www.dropbox.com/s/ujh35l6ckja048m/%D0%98%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20%2B.png?dl=1" ,Иллюзион +
@@ -300,7 +300,7 @@ http://10.200.201.46/sportivniyhd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Мяч HD
 http://10.200.201.46/futbolniyhd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="" ,Хоккей ТВ HD
-http://10.200.201.73/hokkeyniyhd/index.m3u8
+http://timeshift3.powernet/239.1.11.1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="" tvg-logo="https://www.dropbox.com/s/v49zqk5nmpk61uo/%D0%A1%D1%82%D0%B0%D1%80%D1%82%20HD.png?dl=1", Старт HD
 http://10.200.201.46/starthd/index.m3u8
 
@@ -610,7 +610,8 @@ http://fortv.cc:8080/kennedy@iptv22/kennedy@2022/159952
 10.200.250.38 tv-cache6.powernet.com.ru
 10.200.250.42 tv-cache7.powernet.com.ru
 
-10.200.201.46 timeshift5.powernet timeshift-proxy.powernet.com.ru
+10.200.201.46 timeshift-proxy.powernet.com.ru
+10.200.201.68 timeshift5.powernet
 10.200.201.69
 10.200.201.71 timeshift4.powernet
 10.200.201.73 timeshift2.powernet
