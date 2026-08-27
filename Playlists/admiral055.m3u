@@ -14,9 +14,9 @@ http://timeshift3.powernet/239.1.8.111/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/9vhp74s5mpt6bn7/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png?dl=1" ,Пятый канал
 http://timeshift3.powernet/239.1.8.105/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/gfgbuey9lc81yyl/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png?dl=1" ,Звезда
-http://10.200.201.46/zvezda/index.m3u8
+http://timeshift3.powernet/239.1.8.117/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/w80hyw9x27jylt7/%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png?dl=1" ,ТВ Центр
-http://10.200.201.46/tvcentr/index.m3u8
+http://timeshift3.powernet/239.1.8.110/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="" tvg-logo="https://www.dropbox.com/s/mrfzynpettqbak0/%D0%9E%D0%A2%D0%A0.png?dl=1" ,ОТР
 http://10.200.201.46/otr/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-name="360° hd" tvg-logo="https://www.dropbox.com/s/76h5h8zzecf72nq/360%20HD.png?dl=1" ,360° HD
@@ -34,41 +34,41 @@ http://10.200.201.46/rbk/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/mult.png" ,Мульт HD
-http://10.200.201.46/multhd/index.m3u8
+http://timeshift3.powernet/239.1.10.17/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/mama.png" ,Мама
-http://10.200.201.13/mama/index.m3u8
+http://timeshift3.powernet/239.1.11.29/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/karusel.png" ,Карусель
-http://10.200.201.46/karusel/index.m3u8
+http://timeshift3.powernet/239.1.8.3/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" ,В гостях у сказки
-http://10.200.201.46/vgostyahuskazki/index.m3u8
+http://timeshift3.powernet/239.1.9.7/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/solnce.png" ,Солнце
-http://10.200.201.13/disney/index.m3u8
+http://timeshift3.powernet/239.1.9.6/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/unikum.png" ,Уникум
 http://10.200.201.46/detskiy/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/baby-time.png" ,BABY TIME
-http://timeshift-proxy.powernet.com.ru/239.1.12.25/index.m3u8
+http://timeshift3.powernet/239.1.12.25/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" ,Cartoon Classics
-http://timeshift-proxy.powernet.com.ru/239.1.10.21/index.m3u8
+http://timeshift3.powernet/239.1.10.21/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/ryzhy.png" ,Рыжий
-http://timeshift-proxy.powernet.com.ru/rijiy/index.m3u8
+http://timeshift3.powernet/239.1.9.40/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/chizhik.png" ,Чижик HD
-http://timeshift-proxy.powernet.com.ru/239.1.10.7/index.m3u8
+http://timeshift3.powernet/239.1.10.7/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/multimuzyka.png" ,Мультимузыка 
-http://timeshift-proxy.powernet.com.ru/multimuzika/index.m3u8
+http://timeshift3.powernet/239.1.9.42/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="" tvg-logo="https://iptvx.one/picons/sumiko.png" ,Sumiko HD
-http://timeshift-proxy.powernet.com.ru/239.1.11.35/index.m3u8
+http://timeshift3.powernet/239.1.11.35/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/eeymv044yrwtus3/%D0%A2%D0%9D%D0%A2.png?dl=1" ,ТНТ
 http://timeshift3.powernet/239.1.8.119/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/sd9eatxj1rs8xtz/%D0%A2%D0%9D%D0%A24.png?dl=1" ,ТНТ4
-http://10.200.201.46/tnt4/index.m3u8
+http://timeshift3.powernet/239.1.10.3/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/5olscpabrpmtop3/2x2.png?dl=1" ,2x2
-http://10.200.201.46/2x2/index.m3u8
+http://timeshift3.powernet/239.1.10.1/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/u22qibnt6bf0wv4/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png?dl=1" ,Пятница
 http://timeshift3.powernet/239.1.8.116/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/rs5wozg6jecstse/%D0%AE.png?dl=1" ,Ю
-http://timeshift-proxy.powernet.com.ru/yu/mpegts
+http://timeshift3.powernet/239.1.9.13/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-name="" tvg-logo="https://www.dropbox.com/s/pdn503a7cvm6b7y/%D0%A1%D0%A2%D0%A1.png?dl=1" ,СТС
 http://timeshift3.powernet/239.1.8.113/index.m3u8
 
@@ -107,7 +107,7 @@ http://timeshift3.powernet/239.1.8.113/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/ryk3zw0zq8a0mx5/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F.png?dl=1" ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-name="" tvg-logo="https://www.dropbox.com/s/07ka8pqtbdltp0c/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png?dl=1" ,Россия 24
-http://10.200.201.46/rossia24/index.m3u8
+http://timeshift3.powernet/239.1.8.5/index.m3u8
 
 
 
@@ -459,11 +459,11 @@ http://10.200.201.46/spas/index.m3u8
 
 
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/eitedj8sxatzusd/Barely%20Legal.png?dl=1", Barely Legal
-http://10.200.201.46/barelylegal/index.m3u8
+http://timeshift3.powernet/239.1.12.14/index.m3u8
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/rpir7tr5c7iobki/FrenchLover.png?dl=1" ,French Lover
-http://10.200.201.46/frenchlover/index.m3u8
+http://timeshift3.powernet/239.1.12.10/index.m3u8
 #EXTINF:-1 group-title="Эксклюзив" tvg-name="" tvg-logo="https://www.dropbox.com/s/xjbbjq62dbq3llk/Blue-Hustler.png?dl=1" ,Blue Hustler HD
-http://10.200.201.46/bluehustlerhd/index.m3u8
+http://timeshift3.powernet/239.1.12.11/index.m3u8
 
 
 
